@@ -1,0 +1,9 @@
+[navertv]
+title = "네이버TV ─ 미러볼뮤직"
+url = "https://tv.naver.com/mirrorballmusic/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
