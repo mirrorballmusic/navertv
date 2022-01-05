@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] BOTH - Don't say (feat. ZERO)]]></title>
+            <link>https://tv.naver.com/v/24442221</link>
+            <guid>https://tv.naver.com/v/24442221</guid>
+            <pubDate>Wed, 05 Jan 2022 09:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_258/UIQcG_1641359194082leLC1_PNG/1641359165137.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 스킵인트로 (skip intro) - 괜찮아진다며 (Liar)]]></title>
             <link>https://tv.naver.com/v/24442162</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_167/6tWnk_1636622890271RnUND_PNG/1636622863739.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[M/V] 오아랜 (or&) - Hear Me (들려)]]></title>
-            <link>https://tv.naver.com/v/23473647</link>
-            <guid>https://tv.naver.com/v/23473647</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_166/DU9lx_1636622773460rFLEA_PNG/1636622742471.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
