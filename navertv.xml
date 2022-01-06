@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 11:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 12:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] KOLAVO - 집으로 가는 길 (On My Way Home)]]></title>
+            <link>https://tv.naver.com/v/24442294</link>
+            <guid>https://tv.naver.com/v/24442294</guid>
+            <pubDate>Thu, 06 Jan 2022 12:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_100/ztjSe_1641359457953jBCh9_PNG/1641359434149.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 코커 (Coker) - 행위가 주는 즐거움 (The joy of acts (feat. Mingginyu))]]></title>
             <link>https://tv.naver.com/v/24442280</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_238/F7guO_1636623593691sUTci_PNG/1636623546118.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[M/V] 지범 (ZEEBOMB) - Come To Me (내게 와요 (feat. 김영우 Of Sweet Sorrow)) (Retro ver.)]]></title>
-            <link>https://tv.naver.com/v/23473825</link>
-            <guid>https://tv.naver.com/v/23473825</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_144/iSjVn_1636623466095O3Uok_PNG/1636623435480.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
