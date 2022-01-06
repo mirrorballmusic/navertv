@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 06:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 범진 (Bumjin) - 인사 (A Letter) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/24442262</link>
+            <guid>https://tv.naver.com/v/24442262</guid>
+            <pubDate>Thu, 06 Jan 2022 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_116/pHNL9_1641359361773w7Q3s_PNG/1641359310361.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 권우유 (KwonMilk) - 소중한 사람 (Adore) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/24442244</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_55/u1U2Y_1636623391438jFbtb_PNG/1636623349793.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[M/V] 도아 (Doa) - If you love me (너도 나와 같다면) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/23473758</link>
-            <guid>https://tv.naver.com/v/23473758</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_136/MOoc4_1636623238142Hbd40_PNG/1636623202739.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
