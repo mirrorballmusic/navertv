@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 11:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 12:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 라디오 파라다이스 (Radio Paradise) - 좋은 꿈 꾸세요 (Good Night)]]></title>
+            <link>https://tv.naver.com/v/24442470</link>
+            <guid>https://tv.naver.com/v/24442470</guid>
+            <pubDate>Fri, 07 Jan 2022 12:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_160/Jpjd8_16413597681545Rcio_PNG/1641359705059.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 악퉁 (Achtung) - Rachel]]></title>
             <link>https://tv.naver.com/v/24442369</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_293/7xBKR_1639544000508Opzl7_PNG/1639543973782.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 해주 (Heju) - Afternoon Cigarette]]></title>
-            <link>https://tv.naver.com/v/24087701</link>
-            <guid>https://tv.naver.com/v/24087701</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_258/niuCb_1639543894264FvnQ7_PNG/1639543801929.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
