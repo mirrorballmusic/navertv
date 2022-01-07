@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 02:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 파도 (PADO) - 아무도 보지 않는 때에 당신은 누구인가? (Breakfree) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/24442351</link>
+            <guid>https://tv.naver.com/v/24442351</guid>
+            <pubDate>Fri, 07 Jan 2022 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_2/OK6uK_1641359546130THzAn_PNG/1641359469910.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] KOLAVO - 집으로 가는 길 (On My Way Home) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/24442294</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_49/hYsR3_1639543712960RfHvY_PNG/1639543667304.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[M/V] 비안 (Vian) - 안녕, 멜로디 (Goodbye To Love (feat. 존박)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/23473866</link>
-            <guid>https://tv.naver.com/v/23473866</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_238/F7guO_1636623593691sUTci_PNG/1636623546118.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
