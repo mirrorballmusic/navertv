@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 08:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 09:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 악퉁 (Achtung) - Rachel (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/24442369</link>
+            <guid>https://tv.naver.com/v/24442369</guid>
+            <pubDate>Fri, 07 Jan 2022 09:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_132/1qyux_1641359598578VTDxE_PNG/1641359567600.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 권민서 (Kwon Min Seo) - where are we going? (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/24442354</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_258/niuCb_1639543894264FvnQ7_PNG/1639543801929.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[M/V] 호선 (hosun) - 딜라이트 (Delight) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/24087660</link>
-            <guid>https://tv.naver.com/v/24087660</guid>
-            <pubDate>Wed, 29 Dec 2021 07:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_79/7D2rD_1639543787965LWwoG_PNG/1639543754280.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
