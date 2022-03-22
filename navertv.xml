@@ -4,9 +4,33 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 화노 (Hwanho) - Taxi]]></title>
+            <link>https://tv.naver.com/v/25788818</link>
+            <guid>https://tv.naver.com/v/25788818</guid>
+            <pubDate>Tue, 22 Mar 2022 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_165/rOH3O_1647937460967v2GY9_PNG/1647937435604.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 아시안 보이즈 크라잉 (Asian Boys, Crying) - 시티팝 (Citipop)]]></title>
+            <link>https://tv.naver.com/v/25788803</link>
+            <guid>https://tv.naver.com/v/25788803</guid>
+            <pubDate>Tue, 22 Mar 2022 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_128/kT5Xy_1647937428139yhEEt_PNG/1647937395712.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Dine On - 선명해지는 밤 (Starry)(Minimal Version)]]></title>
+            <link>https://tv.naver.com/v/25788784</link>
+            <guid>https://tv.naver.com/v/25788784</guid>
+            <pubDate>Tue, 22 Mar 2022 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_105/lcvEJ_1647937381621V0PxQ_PNG/1647937315835.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 라디오 파라다이스 (Radio Paradise) - 좋은 꿈 꾸세요 (Good Night)]]></title>
             <link>https://tv.naver.com/v/24442470</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_88/gk1YP_1639544107576SwHOl_PNG/1639544062235.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] MONA (모나) - Hero or Villain | 딜리버리 OST]]></title>
-            <link>https://tv.naver.com/v/24087760</link>
-            <guid>https://tv.naver.com/v/24087760</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_113/LByMt_1639544033101cVXQF_PNG/1639544008075.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 전두희 (Jun Doohee) - This is NOT]]></title>
-            <link>https://tv.naver.com/v/24087753</link>
-            <guid>https://tv.naver.com/v/24087753</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_281/034tU_1639544012941jMbTz_PNG/1639543914401.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 네이처 (NATURE) - Delivery (너에게 갈게) | 딜리버리 OST]]></title>
-            <link>https://tv.naver.com/v/24087748</link>
-            <guid>https://tv.naver.com/v/24087748</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_293/7xBKR_1639544000508Opzl7_PNG/1639543973782.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
