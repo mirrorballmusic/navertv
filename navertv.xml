@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 김효린 (Kim Hyo Rin) - 나의 밤은 너무 깊다 (Sleepless Nights)]]></title>
+            <link>https://tv.naver.com/v/25789151</link>
+            <guid>https://tv.naver.com/v/25789151</guid>
+            <pubDate>Thu, 24 Mar 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_251/HnVcA_1647938220579q9ltO_PNG/1647938181565.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 김푸름 (Kim Pureum) - 비둘기와 고양이 (A Pigeon and The Cat)]]></title>
+            <link>https://tv.naver.com/v/25789078</link>
+            <guid>https://tv.naver.com/v/25789078</guid>
+            <pubDate>Thu, 24 Mar 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_101/DBE2k_1647938028368xNkgy_PNG/1647937986400.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 김푸름 (Kim Pureum) - 검은색 하얀색 (BlaCk and wHite)]]></title>
+            <link>https://tv.naver.com/v/25789048</link>
+            <guid>https://tv.naver.com/v/25789048</guid>
+            <pubDate>Thu, 24 Mar 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_102/DbY0i_1647937969815LUFsG_PNG/1647937935327.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 김푸름 (Kim Pureum) - 졸업식 (Graduation)]]></title>
+            <link>https://tv.naver.com/v/25789026</link>
+            <guid>https://tv.naver.com/v/25789026</guid>
+            <pubDate>Thu, 24 Mar 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_250/Jlsfk_16479379091305Dl5r_PNG/1647937773096.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 김푸름 (Kim Pureum) - 꺼벙이 안경 (Dumb Goggles)]]></title>
             <link>https://tv.naver.com/v/25788920</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_122/7i1uC_1639544550035pf01K_PNG/1639544525119.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 타루X김페리 (TARU X KIMPERI) - 비밀 (SECRET)]]></title>
-            <link>https://tv.naver.com/v/24087968</link>
-            <guid>https://tv.naver.com/v/24087968</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_164/dW0GB_16395445121283XXvu_PNG/1639544454236.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 기프트 (GIFT) - Our Bubble (놀자 (NOLJA))]]></title>
-            <link>https://tv.naver.com/v/24087934</link>
-            <guid>https://tv.naver.com/v/24087934</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_250/9FaH8_1639544439487Pgpp3_PNG/1639544412589.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 루멜 (Lumel) - 꿈이라도 (IIV)]]></title>
-            <link>https://tv.naver.com/v/24087908</link>
-            <guid>https://tv.naver.com/v/24087908</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_41/zVuxf_163954438105864sh8_PNG/1639544309882.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 황진아 (HWANG Gina) - 속마음 (Mess Of Love)]]></title>
-            <link>https://tv.naver.com/v/24087898</link>
-            <guid>https://tv.naver.com/v/24087898</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[7:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_66/aQYCV_1639544360786USPOg_PNG/1639544265601.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
