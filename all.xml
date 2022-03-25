@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 로켓트 아가씨 (Lady Rocket) - 눈이 부시게 (The Light in Your Eyes) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/25789238</link>
+            <guid>https://tv.naver.com/v/25789238</guid>
+            <pubDate>Fri, 25 Mar 2022 03:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_280/liJWK_1647938423103xWJl4_PNG/1647938387052.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Rati - Deep Deep Love (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/25789233</link>
@@ -38,6 +46,14 @@
             <pubDate>Thu, 24 Mar 2022 09:09:47 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_149/b3pMk_1647938164523yzwpA_PNG/1647938067844.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 김정훈 (Jeonghoon Kim) - blue (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/25789125</link>
+            <guid>https://tv.naver.com/v/25789125</guid>
+            <pubDate>Fri, 25 Mar 2022 03:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_230/DxZFH_16479381494553VGQh_PNG/1647938112544.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] 김푸름 (Kim Pureum) - 비둘기와 고양이 (A Pigeon and The Cat) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_169/JcAar_1639546358908NrE7k_PNG/1639546217229.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 터치드 (Touched) - Hi Bully (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/24088659</link>
-            <guid>https://tv.naver.com/v/24088659</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_146/MR44F_163954624253287TpM_PNG/1639546137799.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 대왕트래블 - Go straight (직진 (feat. Omega Sapien, Mudd the student, Lil Cherry, GOLDBUUDA) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/24088646</link>
-            <guid>https://tv.naver.com/v/24088646</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_299/phLo1_16395462160504rPya_PNG/1639546174093.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
