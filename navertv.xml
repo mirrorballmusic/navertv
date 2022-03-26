@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 박진 (JIN) - 너는 꼭 행복해야지 (you have to be happy (feat. 운찬))]]></title>
+            <link>https://tv.naver.com/v/25789432</link>
+            <guid>https://tv.naver.com/v/25789432</guid>
+            <pubDate>Sat, 26 Mar 2022 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_233/9WDtd_1647938868591kcpqg_JPEG/1647938814588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 김우주 (kimujoo) - 그날 밤 (Pillow)]]></title>
             <link>https://tv.naver.com/v/25789374</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_258/UIQcG_1641359194082leLC1_PNG/1641359165137.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 스킵인트로 (skip intro) - 괜찮아진다며 (Liar)]]></title>
-            <link>https://tv.naver.com/v/24442162</link>
-            <guid>https://tv.naver.com/v/24442162</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_139/CwpA2_1641359045158qJE0C_PNG/1641359000738.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
