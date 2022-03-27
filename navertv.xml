@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 08:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 09:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 승혜 (Seunghey) - 최선의 ♥ (I did my best)]]></title>
+            <link>https://tv.naver.com/v/25789628</link>
+            <guid>https://tv.naver.com/v/25789628</guid>
+            <pubDate>Sun, 27 Mar 2022 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_161/91l7z_1647939310117V6yfW_PNG/1647939276905.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 김민규 (Kim Minkyu) - 태양을 맞으러 (catch the sun)]]></title>
             <link>https://tv.naver.com/v/25789609</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_100/ztjSe_1641359457953jBCh9_PNG/1641359434149.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 코커 (Coker) - 행위가 주는 즐거움 (The joy of acts (feat. Mingginyu))]]></title>
-            <link>https://tv.naver.com/v/24442280</link>
-            <guid>https://tv.naver.com/v/24442280</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_266/nbvvf_16413594126542ADKX_PNG/1641359378446.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
