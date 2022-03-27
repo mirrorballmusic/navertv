@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] GRAPHY - Orgasm]]></title>
+            <link>https://tv.naver.com/v/25789594</link>
+            <guid>https://tv.naver.com/v/25789594</guid>
+            <pubDate>Sun, 27 Mar 2022 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_283/VjJLt_1647939223123q1a28_PNG/1647939135115.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 예을 (Yeeul) - Y (feat. 밍기뉴 (Mingginyu))]]></title>
+            <link>https://tv.naver.com/v/25789527</link>
+            <guid>https://tv.naver.com/v/25789527</guid>
+            <pubDate>Sun, 27 Mar 2022 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_115/WDhcU_164793909971715Rhq_JPEG/2d8226f5-a9bd-11ec-9c28-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 이정윤 (Lee Jung Yoon) - 흘러가는 대로 (Last Scene (feat. 전나래))]]></title>
             <link>https://tv.naver.com/v/25789523</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_116/pHNL9_1641359361773w7Q3s_PNG/1641359310361.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 권우유 (KwonMilk) - 소중한 사람 (Adore)]]></title>
-            <link>https://tv.naver.com/v/24442244</link>
-            <guid>https://tv.naver.com/v/24442244</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_224/EfpZh_16413592920599v0tj_PNG/1641359271437.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 민채 (Minchae) - 새벽 (Dawn)]]></title>
-            <link>https://tv.naver.com/v/24442230</link>
-            <guid>https://tv.naver.com/v/24442230</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_142/3rcUL_1641359244734CByC7_PNG/1641359224542.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
