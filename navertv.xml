@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] WIREPULLER - First Flight]]></title>
+            <link>https://tv.naver.com/v/25789664</link>
+            <guid>https://tv.naver.com/v/25789664</guid>
+            <pubDate>Mon, 28 Mar 2022 03:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_198/Uhse9_16479393961827RTMn_PNG/1647939368629.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 안지 X 꾸짬마 (Angie X Kuzzamma) - Sugar breath]]></title>
+            <link>https://tv.naver.com/v/25789639</link>
+            <guid>https://tv.naver.com/v/25789639</guid>
+            <pubDate>Mon, 28 Mar 2022 03:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_33/BLN22_16479393521287tqY5_PNG/1647939319207.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 승혜 (Seunghey) - 최선의 ♥ (I did my best)]]></title>
             <link>https://tv.naver.com/v/25789628</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_222/jKWyo_1641359556791Lbtsj_PNG/1641359520992.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 파도 (PADO) - 아무도 보지 않는 때에 당신은 누구인가? (Breakfree)]]></title>
-            <link>https://tv.naver.com/v/24442351</link>
-            <guid>https://tv.naver.com/v/24442351</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_2/OK6uK_1641359546130THzAn_PNG/1641359469910.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] KOLAVO - 집으로 가는 길 (On My Way Home)]]></title>
-            <link>https://tv.naver.com/v/24442294</link>
-            <guid>https://tv.naver.com/v/24442294</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_100/ztjSe_1641359457953jBCh9_PNG/1641359434149.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
