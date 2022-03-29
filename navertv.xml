@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 토미요 (Tomiyo) - 어디로 가고 있는지도 (Where Am I)]]></title>
+            <link>https://tv.naver.com/v/25789728</link>
+            <guid>https://tv.naver.com/v/25789728</guid>
+            <pubDate>Tue, 29 Mar 2022 03:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_178/y0pGV_1647939555889C044Y_PNG/1647939529782.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 규린 (kyurin) - garbage_dump_record (3am)]]></title>
             <link>https://tv.naver.com/v/25789714</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 09:09:38 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_105/lcvEJ_1647937381621V0PxQ_PNG/1647937315835.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 라디오 파라다이스 (Radio Paradise) - 좋은 꿈 꾸세요 (Good Night)]]></title>
-            <link>https://tv.naver.com/v/24442470</link>
-            <guid>https://tv.naver.com/v/24442470</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_160/Jpjd8_16413597681545Rcio_PNG/1641359705059.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
