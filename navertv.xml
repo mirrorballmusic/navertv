@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 김완선 (KIM WAN SUN) - 삐에로는 우릴 보고 웃지 (Pierrot Laughs At Us) | TBS 그대에게 시즌2]]></title>
+            <link>https://tv.naver.com/v/25806574</link>
+            <guid>https://tv.naver.com/v/25806574</guid>
+            <pubDate>Wed, 30 Mar 2022 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_129/gDoGn_1648015458411OFddt_PNG/1648015382859.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 아시안 보이즈 크라잉 (Asian Boys, Crying) - embraces 23 (a shitty love song)]]></title>
             <link>https://tv.naver.com/v/25806550</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 03:42:43 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_292/lEqCz_16479375768416e8zj_PNG/1647937526471.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Official Audio] 서교동의 밤 (the Night of Seokyo) - In Your Eyes (feat. 제로주)]]></title>
-            <link>https://tv.naver.com/v/25788839</link>
-            <guid>https://tv.naver.com/v/25788839</guid>
-            <pubDate>Wed, 23 Mar 2022 03:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_90/ecAiS_16479375092196flEx_PNG/1647937473570.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
