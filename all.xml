@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 02:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 김완선 (KIM WAN SUN) - 가장무도회 (Masquerade) | TBS 그대에게 시즌2 (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/25806606</link>
+            <guid>https://tv.naver.com/v/25806606</guid>
+            <pubDate>Thu, 31 Mar 2022 03:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_177/i0diL_1648015527045RR2ab_PNG/1648015421724.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 포유류 (PO.U.RYU) - 곁 (Beside) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/25806595</link>
+            <guid>https://tv.naver.com/v/25806595</guid>
+            <pubDate>Thu, 31 Mar 2022 03:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_286/H4yqm_1648015515325ehaTU_PNG/1648015471697.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 김완선 (KIM WAN SUN) - 삐에로는 우릴 보고 웃지 (Pierrot Laughs At Us) | TBS 그대에게 시즌2 (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/25806574</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 09:23:31 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_265/h5AlI_1647937701813TBimv_PNG/1647937648756.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 칩 앤 스위트 (Cheap.n.Sweet) - CALL MY NAME (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/25788913</link>
-            <guid>https://tv.naver.com/v/25788913</guid>
-            <pubDate>Wed, 23 Mar 2022 07:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_130/dP6qz_1647937693044IMn8G_PNG/1647937608057.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 김한울 (Kim HanOul) - 아 오늘은 (Will I See You Today) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/25788868</link>
-            <guid>https://tv.naver.com/v/25788868</guid>
-            <pubDate>Wed, 23 Mar 2022 03:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_292/lEqCz_16479375768416e8zj_PNG/1647937526471.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
