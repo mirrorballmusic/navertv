@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Apr 2022 06:12:38 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_130/DZu82_1649225984469fAJf5_PNG/1649225755900.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 강이레 (Kang e-rae) - 괜찮아 (It's Alright)]]></title>
+            <link>https://tv.naver.com/v/26069431</link>
+            <guid>https://tv.naver.com/v/26069431</guid>
+            <pubDate>Thu, 07 Apr 2022 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_69/nYOOH_1649225951517uT6W3_PNG/1649225816248.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] 일루 (illoo) - 나랑 가 (Come Away With Me)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_73/16DqI_1647938268132bbG4Q_PNG/1647938242366.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 김효린 (Kim Hyo Rin) - 나의 밤은 너무 깊다 (Sleepless Nights)]]></title>
-            <link>https://tv.naver.com/v/25789151</link>
-            <guid>https://tv.naver.com/v/25789151</guid>
-            <pubDate>Thu, 24 Mar 2022 03:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_251/HnVcA_1647938220579q9ltO_PNG/1647938181565.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
