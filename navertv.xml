@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 김현철 (Kim Hyun Chul) - DRIVE | TBS 그대에게 시즌2 Episode.2]]></title>
+            <link>https://tv.naver.com/v/26069510</link>
+            <guid>https://tv.naver.com/v/26069510</guid>
+            <pubDate>Fri, 08 Apr 2022 03:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_120/TBvZN_1649226113622bq1QG_PNG/1649226072293.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 강파소 (gangpaso) - BEAM (with. 박한)]]></title>
             <link>https://tv.naver.com/v/26069450</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 03:14:52 GMT</pubDate>
             <content:encoded><![CDATA[4:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_280/liJWK_1647938423103xWJl4_PNG/1647938387052.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Rati - Deep Deep Love]]></title>
-            <link>https://tv.naver.com/v/25789233</link>
-            <guid>https://tv.naver.com/v/25789233</guid>
-            <pubDate>Thu, 24 Mar 2022 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_127/Gpo4e_1647938412471x5n94_PNG/1647938322031.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
