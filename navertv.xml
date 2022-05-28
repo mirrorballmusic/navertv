@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 08:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 09:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 박기영 (Park Ki Young) - 마지막 사랑 (Last Love) | TBS 그대에게 시즌2 Episode.3]]></title>
+            <link>https://tv.naver.com/v/27018287</link>
+            <guid>https://tv.naver.com/v/27018287</guid>
+            <pubDate>Sat, 28 May 2022 09:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_253/YRnSQ_16536365322663Uvs9_PNG/1653636451859.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 김민규 (KIM MIN KYU) - 우주대청소 (Space Battle)]]></title>
             <link>https://tv.naver.com/v/27018260</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_157/rV4r9_1647939263185BzWy9_PNG/1647939238052.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] GRAPHY - Orgasm]]></title>
-            <link>https://tv.naver.com/v/25789594</link>
-            <guid>https://tv.naver.com/v/25789594</guid>
-            <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_283/VjJLt_1647939223123q1a28_PNG/1647939135115.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
