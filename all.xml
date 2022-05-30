@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 플랫폼 스테레오 (Platform Stereo) - Vulture (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27018448</link>
+            <guid>https://tv.naver.com/v/27018448</guid>
+            <pubDate>Mon, 30 May 2022 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_109/HsbHx_1653636892329CynNM_PNG/1653636763198.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 레이지본 (Lazybone) - 피라미드 (Pyramid) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27018382</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 03:24:53 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_16/7iHXs_1648015226169MM4Mn_PNG/1648015170456.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 토미요 (Tomiyo) - 어디로 가고 있는지도 (Where Am I) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/25789728</link>
-            <guid>https://tv.naver.com/v/25789728</guid>
-            <pubDate>Tue, 29 Mar 2022 03:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_178/y0pGV_1647939555889C044Y_PNG/1647939529782.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
