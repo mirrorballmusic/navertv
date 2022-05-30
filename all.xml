@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 08:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 09:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 리차드파커스 (Richard Parkers) - 긴긴밤 (Long long night) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27018508</link>
+            <guid>https://tv.naver.com/v/27018508</guid>
+            <pubDate>Mon, 30 May 2022 09:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_270/gzhtw_1653637038934sKNHg_PNG/1653636960867.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 플랫폼 스테레오 (Platform Stereo) - Vulture (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27018448</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 06:11:51 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_22/iJ0nw_1648015370591M0Vrj_PNG/1648015340357.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 서인 (SOIN) - 그냥 그냥 (Just Just) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/25806468</link>
-            <guid>https://tv.naver.com/v/25806468</guid>
-            <pubDate>Wed, 30 Mar 2022 03:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_16/7iHXs_1648015226169MM4Mn_PNG/1648015170456.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
