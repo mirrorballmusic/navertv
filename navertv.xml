@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 01 Jun 2022 06:18:21 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_176/1TB8n_1653637434376bd4Pv_PNG/1653637306503.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 배영경 (bae young gyoung) - 사랑해 (i love you (feat. 경선))]]></title>
+            <link>https://tv.naver.com/v/27018656</link>
+            <guid>https://tv.naver.com/v/27018656</guid>
+            <pubDate>Wed, 01 Jun 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_64/uWEjH_1653637429393vYeFF_PNG/1653637356643.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] 딕펑스 (DICKPUNKS) - VIVA청춘 (VIVA PRIMAVERA) | TBS 그대에게 시즌2 Episode.4 : 딕펑스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_268/udU1I_1649225404393iPzOq_PNG/1649225336849.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 안지 X 꾸짬마 (Angie X Kuzzamma) - Sugar breath]]></title>
-            <link>https://tv.naver.com/v/26069055</link>
-            <guid>https://tv.naver.com/v/26069055</guid>
-            <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_35/3v0Jz_1649225150595YgkGi_PNG/1649224924914.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
