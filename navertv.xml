@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Black Velvet Feel - Stay Young Stay Beautiful]]></title>
+            <link>https://tv.naver.com/v/27018813</link>
+            <guid>https://tv.naver.com/v/27018813</guid>
+            <pubDate>Thu, 02 Jun 2022 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_252/iQqW2_1653637770385m41mF_PNG/1653637722528.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] London Fuzz - Triple Grunge Man]]></title>
+            <link>https://tv.naver.com/v/27018792</link>
+            <guid>https://tv.naver.com/v/27018792</guid>
+            <pubDate>Thu, 02 Jun 2022 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_80/WZ2Xf_1653637706389GY00o_PNG/1653637675945.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 방랑자메리 (B.Mery) - 신도시 (New Town)]]></title>
             <link>https://tv.naver.com/v/27018731</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[4:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_20/iCccZ_1649225968429yFQhJ_PNG/1649225876118.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 강이레 (Kang e-rae) - 괜찮아 (It's Alright)]]></title>
-            <link>https://tv.naver.com/v/26069431</link>
-            <guid>https://tv.naver.com/v/26069431</guid>
-            <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_69/nYOOH_1649225951517uT6W3_PNG/1649225816248.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 일루 (illoo) - 나랑 가 (Come Away With Me)]]></title>
-            <link>https://tv.naver.com/v/26069325</link>
-            <guid>https://tv.naver.com/v/26069325</guid>
-            <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_43/twPWT_1649225729404Tr0Pl_PNG/1649225707608.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
