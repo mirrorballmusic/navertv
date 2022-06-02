@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 11:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 12:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 경미 (Kyoung mi) - Lullaby (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27018823</link>
+            <guid>https://tv.naver.com/v/27018823</guid>
+            <pubDate>Thu, 02 Jun 2022 12:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_61/A5q9Q_1653637790539BPkTu_PNG/1653637758583.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Black Velvet Feel - Stay Young Stay Beautiful (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27018813</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 06:12:38 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_130/DZu82_1649225984469fAJf5_PNG/1649225755900.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 강헌구 (Kang Heongoo) - 마중 (Waiting There) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/26069442</link>
-            <guid>https://tv.naver.com/v/26069442</guid>
-            <pubDate>Thu, 07 Apr 2022 12:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_20/iCccZ_1649225968429yFQhJ_PNG/1649225876118.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
