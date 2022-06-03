@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 02:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 섬머 (summer) - 물고기는 다리의 꿈을 꾼다 (Fishes can walk in their dreams)]]></title>
+            <link>https://tv.naver.com/v/27018836</link>
+            <guid>https://tv.naver.com/v/27018836</guid>
+            <pubDate>Fri, 03 Jun 2022 03:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_281/4A6OW_16536378274474kuAK_PNG/1653637794649.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 경미 (Kyoung mi) - Lullaby]]></title>
             <link>https://tv.naver.com/v/27018823</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_120/TBvZN_1649226113622bq1QG_PNG/1649226072293.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 강파소 (gangpaso) - BEAM (with. 박한)]]></title>
-            <link>https://tv.naver.com/v/26069450</link>
-            <guid>https://tv.naver.com/v/26069450</guid>
-            <pubDate>Sat, 23 Apr 2022 12:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_130/DZu82_1649225984469fAJf5_PNG/1649225755900.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
