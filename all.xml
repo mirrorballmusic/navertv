@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 02:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 슬로디 (Slou.D) - 그런거 아냐 (It's not like that) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27019021</link>
+            <guid>https://tv.naver.com/v/27019021</guid>
+            <pubDate>Sat, 04 Jun 2022 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_74/RJOge_1653638278996DNmrX_PNG/1653638257218.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 이한철 (Lee HanChul) - 흘러간다 (Flow) | TBS 그대에게 시즌2 Episode.5 : 이한철 (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27018977</link>
+            <guid>https://tv.naver.com/v/27018977</guid>
+            <pubDate>Sat, 04 Jun 2022 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_126/3PuWK_1653638167693gOkKC_PNG/1653638012348.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 이한철 (Lee HanChul) - Destiny | TBS 그대에게 시즌2 Episode.5 : 이한철 (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27018931</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 27 May 2022 12:18:47 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_218/kIieP_1653636348044X61kQ_PNG/1653636325496.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 히제 (heeje) - 미정이 (Unknown) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018199</link>
-            <guid>https://tv.naver.com/v/27018199</guid>
-            <pubDate>Fri, 27 May 2022 09:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_20/Vr3Z7_1653636291113tLU4n_PNG/1653636255078.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 김현철 (Kim Hyun Chul) - DRIVE | TBS 그대에게 시즌2 Episode.2 (4K) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/26069679</link>
-            <guid>https://tv.naver.com/v/26069679</guid>
-            <pubDate>Fri, 08 Apr 2022 12:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_241/sl5GN_1649226551372nfmNn_PNG/1649226467565.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
