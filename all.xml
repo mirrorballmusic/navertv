@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Huckleberryfinn (허클베리핀 (Huckleberryfinn)) - LTL (눈) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27521141</link>
+            <guid>https://tv.naver.com/v/27521141</guid>
+            <pubDate>Thu, 23 Jun 2022 09:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/tIxpo_1655972044783osFTq_PNG/1655971849502.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Seonghun - Night skys (밤하늘 사이로) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27521032</link>
             <guid>https://tv.naver.com/v/27521032</guid>
             <pubDate>Thu, 23 Jun 2022 08:13:39 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_45/B8hnC_16559718239839gnBu_JPEG/7be439e1-f2cb-11ec-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_189/Bnacp_16559720615527VeC0_PNG/1655972058764.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Lee Jung Yoon (이정윤) - 29 (feat. 전나래) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 May 2022 09:10:29 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_167/J9hIS_1653636667930gm0Sz_PNG/1653636640635.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 안지 (angie) & 옴브레 (ohmbre) - 나는 고양이 (I am a Cat) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018332</link>
-            <guid>https://tv.naver.com/v/27018332</guid>
-            <pubDate>Sun, 29 May 2022 06:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_17/bxyR5_1653636639591LxGlc_PNG/1653636568578.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
