@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 00:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] PADO (파도 (PADO)) - Sway (헤엄쳐) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27521394</link>
+            <guid>https://tv.naver.com/v/27521394</guid>
+            <pubDate>Fri, 24 Jun 2022 03:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/4LzkN_1655972598474GlH9X_PNG/1655972411073.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Huckleberryfinn (허클베리핀 (Huckleberryfinn)) - LTL (눈) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27521141</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 May 2022 12:15:53 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_254/J6H1L_1653636703407qccJx_PNG/1653636680623.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 문없는집 (Doorlesshouse) - 검은 강을 건너 (Drifting) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018342</link>
-            <guid>https://tv.naver.com/v/27018342</guid>
-            <pubDate>Sun, 29 May 2022 09:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_167/J9hIS_1653636667930gm0Sz_PNG/1653636640635.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
