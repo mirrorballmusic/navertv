@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 00:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 03:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Illanc (일 렁) - Rain (feat. JINKYUNG)]]></title>
+            <link>https://tv.naver.com/v/27541799</link>
+            <guid>https://tv.naver.com/v/27541799</guid>
+            <pubDate>Sun, 26 Jun 2022 03:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_88/ITeUp_1656050360242XmvqG_PNG/1656050192146.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] PADO (파도 (PADO)) - Sway (헤엄쳐)]]></title>
             <link>https://tv.naver.com/v/27521394</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 03:03:59 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_271/DxrI5_1653636743762wdh1q_PNG/1653636723202.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 신경우 (Shin kyoung woo) - 둥지 (Nest)]]></title>
-            <link>https://tv.naver.com/v/27018358</link>
-            <guid>https://tv.naver.com/v/27018358</guid>
-            <pubDate>Sun, 29 May 2022 12:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_254/J6H1L_1653636703407qccJx_PNG/1653636680623.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
