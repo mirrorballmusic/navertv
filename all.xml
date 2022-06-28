@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 00:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] nuMori (누모리 (nuMori)) - Dokebi (얼굴없는 도깨비) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27589217</link>
+            <guid>https://tv.naver.com/v/27589217</guid>
+            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_169/L6m59_1656307154411AUGmk_PNG/1656307067129.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] nuMori (누모리 (nuMori)) - Your Temperature (너의 온도) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27589164</link>
+            <guid>https://tv.naver.com/v/27589164</guid>
+            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_58/8HU9t_1656307178997JUCyE_PNG/1656307168090.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Woshi - 별것 (nothing) (with. Yebit (예빛)) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27589098</link>
+            <guid>https://tv.naver.com/v/27589098</guid>
+            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_137/4uYOp_1656306928306ORwUh_PNG/1656306770179.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Sunkyoung (선경) - Day of sand (모래의 낮) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27589032</link>
+            <guid>https://tv.naver.com/v/27589032</guid>
+            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_141/VP1qa_1656306740929C0pFL_PNG/1656306552553.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Illanc (일 렁) - Rain (feat. JINKYUNG) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27541799</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 31 May 2022 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_294/k0Znd_1653637215511UBMLz_PNG/1653637095295.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] ADYNE - Rolling night (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018524</link>
-            <guid>https://tv.naver.com/v/27018524</guid>
-            <pubDate>Mon, 30 May 2022 12:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_158/YKo0p_1653637080209BK7Rd_PNG/1653637054942.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 리차드파커스 (Richard Parkers) - 긴긴밤 (Long long night) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018508</link>
-            <guid>https://tv.naver.com/v/27018508</guid>
-            <pubDate>Mon, 30 May 2022 09:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_270/gzhtw_1653637038934sKNHg_PNG/1653636960867.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 플랫폼 스테레오 (Platform Stereo) - Vulture (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018448</link>
-            <guid>https://tv.naver.com/v/27018448</guid>
-            <pubDate>Mon, 30 May 2022 06:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_109/HsbHx_1653636892329CynNM_PNG/1653636763198.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 레이지본 (Lazybone) - 피라미드 (Pyramid) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018382</link>
-            <guid>https://tv.naver.com/v/27018382</guid>
-            <pubDate>Mon, 30 May 2022 03:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_271/DxrI5_1653636743762wdh1q_PNG/1653636723202.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
