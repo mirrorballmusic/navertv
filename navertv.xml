@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Sunkyoung (선경) - Night of sand (모래의 밤)]]></title>
+            <link>https://tv.naver.com/v/27673327</link>
+            <guid>https://tv.naver.com/v/27673327</guid>
+            <pubDate>Thu, 30 Jun 2022 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_149/m3v05_1656569783630orrU4_PNG/1656569228197.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] SAGA - Even if it's not a movie (내 인생은 영화가 아니니깐)]]></title>
             <link>https://tv.naver.com/v/27640149</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 12:18:20 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_126/3rYoO_16536373046296PuSB_PNG/1653637209602.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] cotoba (코토바) - 계산된 자유 (Free will)]]></title>
-            <link>https://tv.naver.com/v/27018601</link>
-            <guid>https://tv.naver.com/v/27018601</guid>
-            <pubDate>Tue, 31 May 2022 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_280/5aQpu_1653637299460vXvnm_PNG/1653637146649.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
