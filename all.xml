@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 00:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 1111 - The Last Man On The Earth (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27740044</link>
+            <guid>https://tv.naver.com/v/27740044</guid>
+            <pubDate>Tue, 05 Jul 2022 03:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_134/rdxK1_1656909803810TbSHN_PNG/1656909578737.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Sunkyoung (선경) - Night of sand (모래의 밤) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27673327</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 03:30:35 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_293/Z6FOd_1653637388280PJka3_PNG/1653637274137.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 송용진 (Song Yongjin) - 우리, 같이 (We, Together) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018603</link>
-            <guid>https://tv.naver.com/v/27018603</guid>
-            <pubDate>Tue, 31 May 2022 12:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_126/3rYoO_16536373046296PuSB_PNG/1653637209602.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
