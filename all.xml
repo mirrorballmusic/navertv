@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 00:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Lee Jun Hyung (이준형) - Earth (지구) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27800840</link>
+            <guid>https://tv.naver.com/v/27800840</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_279/avL95_1657161558066UBfoj_PNG/1657161246983.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] cotoba (코토바) - Love&Art (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27779948</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 06:18:21 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_176/1TB8n_1653637434376bd4Pv_PNG/1653637306503.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 배영경 (bae young gyoung) - 사랑해 (i love you (feat. 경선)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018656</link>
-            <guid>https://tv.naver.com/v/27018656</guid>
-            <pubDate>Wed, 01 Jun 2022 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_64/uWEjH_1653637429393vYeFF_PNG/1653637356643.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
