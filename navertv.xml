@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 00:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Jul 2022 03:15:22 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_279/avL95_1657161558066UBfoj_PNG/1657161246983.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] BenchWeLeo (벤치위레오) - Cloudy]]></title>
+            <link>https://tv.naver.com/v/27800690</link>
+            <guid>https://tv.naver.com/v/27800690</guid>
+            <pubDate>Fri, 08 Jul 2022 03:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_189/7YwPX_1657161210243ayBs3_PNG/1657160452935.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] cotoba (코토바) - Love&Art]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 12:20:17 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_270/yeCqa_1653637589322wB75c_PNG/1653637558908.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 딕펑스 (DICKPUNKS) - 평행선 (Parallel Lines) | TBS 그대에게 시즌2 Episode.4 : 딕펑스]]></title>
-            <link>https://tv.naver.com/v/27018659</link>
-            <guid>https://tv.naver.com/v/27018659</guid>
-            <pubDate>Wed, 01 Jun 2022 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_176/1TB8n_1653637434376bd4Pv_PNG/1653637306503.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
