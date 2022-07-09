@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 02:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Han Jung In (한정인) - Wallflower (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27831979</link>
+            <guid>https://tv.naver.com/v/27831979</guid>
+            <pubDate>Sat, 09 Jul 2022 03:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_52/CgN5b_1657276131745A8QPu_PNG/1657275778617.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Lee Jun Hyung (이준형) - Earth (지구) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27800840</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 03:07:57 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_26/sp9Fj_1653637620951NwjiF_PNG/1653637596262.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sucozy - Difference (나와는 참 다른) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018718</link>
-            <guid>https://tv.naver.com/v/27018718</guid>
-            <pubDate>Wed, 01 Jun 2022 12:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_270/yeCqa_1653637589322wB75c_PNG/1653637558908.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
