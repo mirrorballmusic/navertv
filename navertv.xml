@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 00:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 13 Jul 2022 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_218/7cOea_1657607178533twMYs_PNG/1657607020161.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Orange Fang Fang Boys (오렌지 팡팡 보이즈) - Walking Dead]]></title>
+            <link>https://tv.naver.com/v/27874476</link>
+            <guid>https://tv.naver.com/v/27874476</guid>
+            <pubDate>Thu, 14 Jul 2022 03:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_249/ARpyP_1657531052940GK91C_PNG/1657530888559.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Han Jung In (한정인) - Wallflower]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_252/iQqW2_1653637770385m41mF_PNG/1653637722528.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] London Fuzz - Triple Grunge Man]]></title>
-            <link>https://tv.naver.com/v/27018792</link>
-            <guid>https://tv.naver.com/v/27018792</guid>
-            <pubDate>Thu, 02 Jun 2022 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_80/WZ2Xf_1653637706389GY00o_PNG/1653637675945.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
