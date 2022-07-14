@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 08:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEASER] Lee Dongsoo (이동수) - My Only Ace (목단)]]></title>
+            <link>https://tv.naver.com/v/27942705</link>
+            <guid>https://tv.naver.com/v/27942705</guid>
+            <pubDate>Thu, 14 Jul 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_6/SSggy_1657782957671OmDdu_PNG/1657782839886.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 6Band (육중완밴드) - Banana yum-yum (바나나 먹고싶다)]]></title>
             <link>https://tv.naver.com/v/27892280</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 12:18:53 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_61/A5q9Q_1653637790539BPkTu_PNG/1653637758583.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Black Velvet Feel - Stay Young Stay Beautiful]]></title>
-            <link>https://tv.naver.com/v/27018813</link>
-            <guid>https://tv.naver.com/v/27018813</guid>
-            <pubDate>Thu, 02 Jun 2022 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_252/iQqW2_1653637770385m41mF_PNG/1653637722528.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
