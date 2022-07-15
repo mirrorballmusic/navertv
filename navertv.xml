@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 00:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 14 Jul 2022 09:10:17 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_6/SSggy_1657782957671OmDdu_PNG/1657782839886.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Tejong (테종) - Toys]]></title>
+            <link>https://tv.naver.com/v/27942489</link>
+            <guid>https://tv.naver.com/v/27942489</guid>
+            <pubDate>Fri, 15 Jul 2022 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_261/gxYNn_1657782603528T4cP1_PNG/1657782436827.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] 6Band (육중완밴드) - Banana yum-yum (바나나 먹고싶다)]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Thu, 14 Jul 2022 03:17:17 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_249/ARpyP_1657531052940GK91C_PNG/1657530888559.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Ye Ram (예람) - We are (우리는)]]></title>
+            <link>https://tv.naver.com/v/27871316</link>
+            <guid>https://tv.naver.com/v/27871316</guid>
+            <pubDate>Fri, 15 Jul 2022 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[6:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_63/GRN30_1657525192628s5tdY_PNG/1657525049472.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Han Jung In (한정인) - Wallflower]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 06:12:04 GMT</pubDate>
             <content:encoded><![CDATA[4:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_205/XfkDk_1653637904385UHCbV_PNG/1653637853122.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 섬머 (summer) - 물고기는 다리의 꿈을 꾼다 (Fishes can walk in their dreams)]]></title>
-            <link>https://tv.naver.com/v/27018836</link>
-            <guid>https://tv.naver.com/v/27018836</guid>
-            <pubDate>Fri, 03 Jun 2022 03:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_281/4A6OW_16536378274474kuAK_PNG/1653637794649.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 경미 (Kyoung mi) - Lullaby]]></title>
-            <link>https://tv.naver.com/v/27018823</link>
-            <guid>https://tv.naver.com/v/27018823</guid>
-            <pubDate>Thu, 02 Jun 2022 12:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_61/A5q9Q_1653637790539BPkTu_PNG/1653637758583.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
