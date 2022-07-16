@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 02:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 03:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] LAZZI (라찌) - Crazy like feather (미치도록 가벼운 춤과 키스를) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/27971046</link>
+            <guid>https://tv.naver.com/v/27971046</guid>
+            <pubDate>Sat, 16 Jul 2022 03:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_51/QpusZ_1657881044023r30mv_PNG/1657880910076.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TEASER] Lee Dongsoo (이동수) - My Only Ace (목단) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/27942705</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_147/dgGIQ_165363795046498bWA_PNG/1653637916934.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 육중완밴드 (6band) - 대배우 김광규 (The Great Actor Kim Kwang Kyu) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27018870</link>
-            <guid>https://tv.naver.com/v/27018870</guid>
-            <pubDate>Fri, 03 Jun 2022 06:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_205/XfkDk_1653637904385UHCbV_PNG/1653637853122.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
