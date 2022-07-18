@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 00:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 16 Jul 2022 03:48:03 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_51/QpusZ_1657881044023r30mv_PNG/1657880910076.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Lee Dongsoo (이동수) - My Only Ace (목단)]]></title>
+            <link>https://tv.naver.com/v/27943061</link>
+            <guid>https://tv.naver.com/v/27943061</guid>
+            <pubDate>Mon, 18 Jul 2022 03:06:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_232/SWIAG_16577835480644moeJ_PNG/1657783470844.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TEASER] Lee Dongsoo (이동수) - My Only Ace (목단)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 03:34:16 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_74/RJOge_1653638278996DNmrX_PNG/1653638257218.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 이한철 (Lee HanChul) - 흘러간다 (Flow) | TBS 그대에게 시즌2 Episode.5 : 이한철]]></title>
-            <link>https://tv.naver.com/v/27018977</link>
-            <guid>https://tv.naver.com/v/27018977</guid>
-            <pubDate>Sat, 04 Jun 2022 03:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[5:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_126/3PuWK_1653638167693gOkKC_PNG/1653638012348.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
