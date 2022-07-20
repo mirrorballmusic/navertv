@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 20 Jul 2022 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[4:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_76/nRDOu_16581936972240QIzL_PNG/1658193561724.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Soulights (소울라이츠) - Break Through (질주) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28011881</link>
+            <guid>https://tv.naver.com/v/28011881</guid>
+            <pubDate>Wed, 20 Jul 2022 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_30/p4YkA_1658130993550E4OB1_PNG/1658130890883.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TEASER] Soulights (소울라이츠) - Break Through (질주) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Jun 2022 03:31:38 GMT</pubDate>
             <content:encoded><![CDATA[4:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_215/e9O27_1653638467677o02YI_PNG/1653638424371.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 화려 (Hwaryeo) - 바다 (Ocean) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27019050</link>
-            <guid>https://tv.naver.com/v/27019050</guid>
-            <pubDate>Sat, 04 Jun 2022 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_105/rjFis_1653638363434SfOSx_PNG/1653638295574.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
