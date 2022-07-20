@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 12:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 13:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Band Nah (나상현씨밴드) - Lights (불빛) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28061304</link>
+            <guid>https://tv.naver.com/v/28061304</guid>
+            <pubDate>Wed, 20 Jul 2022 13:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_184/8uuvQ_16583099989496hWRd_PNG/1658309919746.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Ye Ram (예람) - When I Sing (노래를 부르면) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28024597</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 12:14:06 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_50/YtsAK_1653638483239HTkO0_PNG/1653638375255.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 강이레 (Kang e-rae) - 참을 수 없는 존재의 가벼움 (The unbearable lightness of being) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27019111</link>
-            <guid>https://tv.naver.com/v/27019111</guid>
-            <pubDate>Sun, 05 Jun 2022 03:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_215/e9O27_1653638467677o02YI_PNG/1653638424371.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
