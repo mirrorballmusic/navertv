@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 00:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Lua (루아) - YOU AND I (느영나영) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28079724</link>
+            <guid>https://tv.naver.com/v/28079724</guid>
+            <pubDate>Fri, 22 Jul 2022 03:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_215/hobkS_16583862442400UK97_PNG/1658386171412.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Band Nah (나상현씨밴드) - Lights (불빛) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28061304</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 08:13:39 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_189/Bnacp_16559720615527VeC0_PNG/1655972058764.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lee Jung Yoon (이정윤) - 29 (feat. 전나래) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27520913</link>
-            <guid>https://tv.naver.com/v/27520913</guid>
-            <pubDate>Thu, 23 Jun 2022 08:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_177/vtoCw_1655971600653RMa0F_PNG/1655970816053.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
