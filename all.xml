@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 22 Jul 2022 11:08:48 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_214/9nqzI_1658486327006eFpOo_PNG/1658486261563.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Jiyul (지율) - dry flower (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28107984</link>
+            <guid>https://tv.naver.com/v/28107984</guid>
+            <pubDate>Mon, 25 Jul 2022 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_4/dEf68_1658486213269IaDVw_PNG/1658486077968.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Lua (루아) - YOU AND I (느영나영) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 03:05:20 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/4LzkN_1655972598474GlH9X_PNG/1655972411073.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Huckleberryfinn (허클베리핀 (Huckleberryfinn)) - LTL (눈) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27521141</link>
-            <guid>https://tv.naver.com/v/27521141</guid>
-            <pubDate>Thu, 23 Jun 2022 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/tIxpo_1655972044783osFTq_PNG/1655971849502.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
