@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEASER] Itzel - NEW BIRTH]]></title>
+            <link>https://tv.naver.com/v/28147584</link>
+            <guid>https://tv.naver.com/v/28147584</guid>
+            <pubDate>Mon, 25 Jul 2022 06:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_234/h6WbH_1658728315104H7wK7_PNG/1658728260221.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] OOHYO (우효) - Sand (모래)]]></title>
             <link>https://tv.naver.com/v/28108013</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Jun 2022 03:08:38 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_88/ITeUp_1656050360242XmvqG_PNG/1656050192146.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PADO (파도 (PADO)) - Sway (헤엄쳐)]]></title>
-            <link>https://tv.naver.com/v/27521394</link>
-            <guid>https://tv.naver.com/v/27521394</guid>
-            <pubDate>Fri, 24 Jun 2022 03:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/4LzkN_1655972598474GlH9X_PNG/1655972411073.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
