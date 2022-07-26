@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 00:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 03:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Woobi (우비) - flower blizzard (꽃보라)]]></title>
+            <link>https://tv.naver.com/v/28166793</link>
+            <guid>https://tv.naver.com/v/28166793</guid>
+            <pubDate>Tue, 26 Jul 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_183/vW9ni_1658803014626XluwK_PNG/1658802946925.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TEASER] Itzel - NEW BIRTH]]></title>
             <link>https://tv.naver.com/v/28147584</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 25 Jul 2022 06:13:10 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_234/h6WbH_1658728315104H7wK7_PNG/1658728260221.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Kim Jihee (김지희) - Window Seat (비행기 창가자리)]]></title>
+            <link>https://tv.naver.com/v/28147542</link>
+            <guid>https://tv.naver.com/v/28147542</guid>
+            <pubDate>Tue, 26 Jul 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_12/lHnTl_1658728222547COluL_PNG/1658728106089.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] OOHYO (우효) - Sand (모래)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_137/4uYOp_1656306928306ORwUh_PNG/1656306770179.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunkyoung (선경) - Day of sand (모래의 낮)]]></title>
-            <link>https://tv.naver.com/v/27589032</link>
-            <guid>https://tv.naver.com/v/27589032</guid>
-            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_141/VP1qa_1656306740929C0pFL_PNG/1656306552553.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Illanc (일 렁) - Rain (feat. JINKYUNG)]]></title>
-            <link>https://tv.naver.com/v/27541799</link>
-            <guid>https://tv.naver.com/v/27541799</guid>
-            <pubDate>Sun, 26 Jun 2022 03:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_88/ITeUp_1656050360242XmvqG_PNG/1656050192146.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
