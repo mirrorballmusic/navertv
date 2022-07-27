@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 00:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Jul 2022 03:27:02 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_183/vW9ni_1658803014626XluwK_PNG/1658802946925.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] The night of Seokyo (서교동의 밤) - Summer Dream (feat. ZIEUN (지은)) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28166770</link>
+            <guid>https://tv.naver.com/v/28166770</guid>
+            <pubDate>Wed, 27 Jul 2022 03:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_44/qKxE2_165880292674038VpT_PNG/1658802856340.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TEASER] Itzel - NEW BIRTH (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_58/8HU9t_1656307178997JUCyE_PNG/1656307168090.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Woshi - 별것 (nothing) (with. Yebit (예빛)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27589098</link>
-            <guid>https://tv.naver.com/v/27589098</guid>
-            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_137/4uYOp_1656306928306ORwUh_PNG/1656306770179.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
