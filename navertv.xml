@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 00:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 03:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] sucozy - ISTILLCAREABOUT]]></title>
+            <link>https://tv.naver.com/v/28250860</link>
+            <guid>https://tv.naver.com/v/28250860</guid>
+            <pubDate>Sat, 30 Jul 2022 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_271/U8sYQ_1659087579819WtMgD_PNG/1659087504218.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Woobi (우비) - flower blizzard (꽃보라)]]></title>
             <link>https://tv.naver.com/v/28166793</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_169/L6m59_1656307154411AUGmk_PNG/1656307067129.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] nuMori (누모리 (nuMori)) - Your Temperature (너의 온도)]]></title>
-            <link>https://tv.naver.com/v/27589164</link>
-            <guid>https://tv.naver.com/v/27589164</guid>
-            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_58/8HU9t_1656307178997JUCyE_PNG/1656307168090.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
