@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 00:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 03:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] BUMJIN (범진) - LIGHT (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28301195</link>
+            <guid>https://tv.naver.com/v/28301195</guid>
+            <pubDate>Tue, 02 Aug 2022 03:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_225/OCe0y_1659347962847B8OLd_PNG/1659347886002.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Rati - The Same (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28301163</link>
+            <guid>https://tv.naver.com/v/28301163</guid>
+            <pubDate>Tue, 02 Aug 2022 03:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_128/hNWut_1659347846553C5m1L_PNG/1659347718896.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Itzel - NEW BIRTH (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28301116</link>
+            <guid>https://tv.naver.com/v/28301116</guid>
+            <pubDate>Tue, 02 Aug 2022 03:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_68/tvGHE_1659347695494IuhKg_PNG/1659347585750.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] sucozy - ISTILLCAREABOUT (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28250860</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 03:09:39 GMT</pubDate>
             <content:encoded><![CDATA[4:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_134/rdxK1_1656909803810TbSHN_PNG/1656909578737.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunkyoung (선경) - Night of sand (모래의 밤) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27673327</link>
-            <guid>https://tv.naver.com/v/27673327</guid>
-            <pubDate>Thu, 30 Jun 2022 07:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_149/m3v05_1656569783630orrU4_PNG/1656569228197.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] SAGA - Even if it's not a movie (내 인생은 영화가 아니니깐) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27640149</link>
-            <guid>https://tv.naver.com/v/27640149</guid>
-            <pubDate>Thu, 30 Jun 2022 03:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_41/HTvtO_1656471635834yHisj_PNG/1656467923886.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] nuMori (누모리 (nuMori)) - Dokebi (얼굴없는 도깨비) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27589217</link>
-            <guid>https://tv.naver.com/v/27589217</guid>
-            <pubDate>Tue, 28 Jun 2022 03:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_169/L6m59_1656307154411AUGmk_PNG/1656307067129.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
