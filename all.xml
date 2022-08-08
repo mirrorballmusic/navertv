@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Kim Sookhyung (김숙형) - Fever (열) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28395119</link>
+            <guid>https://tv.naver.com/v/28395119</guid>
+            <pubDate>Mon, 08 Aug 2022 03:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_139/cxyYk_1659691658960Hprwv_PNG/1659691566766.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] eunoo - 잠수 (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28359497</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 03:07:08 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_189/7YwPX_1657161210243ayBs3_PNG/1657160452935.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] cotoba (코토바) - Love&Art (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27779948</link>
-            <guid>https://tv.naver.com/v/27779948</guid>
-            <pubDate>Wed, 06 Jul 2022 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[6:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_192/s0Qk6_1657075321384a6IPE_PNG/1657075219286.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
