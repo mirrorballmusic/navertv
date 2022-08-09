@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 00:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 03:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] ALBAS - Day N Night (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28435161</link>
+            <guid>https://tv.naver.com/v/28435161</guid>
+            <pubDate>Tue, 09 Aug 2022 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_178/pbCkW_1659941477425OzI2o_PNG/1659941364176.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] ALBAS - Revolution (레볼루션) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28435048</link>
+            <guid>https://tv.naver.com/v/28435048</guid>
+            <pubDate>Tue, 09 Aug 2022 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_228/4sWPN_1659941275689Y1kyh_PNG/1659941220600.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Kim Hyunchang (김현창) - afternoon (오후) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28434979</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 03:18:34 GMT</pubDate>
             <content:encoded><![CDATA[6:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_63/GRN30_1657525192628s5tdY_PNG/1657525049472.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Han Jung In (한정인) - Wallflower (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27831979</link>
-            <guid>https://tv.naver.com/v/27831979</guid>
-            <pubDate>Sat, 09 Jul 2022 03:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[6:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_52/CgN5b_1657276131745A8QPu_PNG/1657275778617.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lee Jun Hyung (이준형) - Earth (지구) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27800840</link>
-            <guid>https://tv.naver.com/v/27800840</guid>
-            <pubDate>Thu, 07 Jul 2022 03:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_279/avL95_1657161558066UBfoj_PNG/1657161246983.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
