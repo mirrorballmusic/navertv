@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 00:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Doorlesshouse (문없는집) - Summer Break (방학을 기다리던 날들) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28595898</link>
+            <guid>https://tv.naver.com/v/28595898</guid>
+            <pubDate>Wed, 17 Aug 2022 03:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_18/YOfRq_16606398570888p6eP_PNG/1660639754889.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] ALBAS - Day N Night (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28435161</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 03:17:17 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_249/ARpyP_1657531052940GK91C_PNG/1657530888559.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Ye Ram (예람) - We are (우리는) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27871316</link>
-            <guid>https://tv.naver.com/v/27871316</guid>
-            <pubDate>Fri, 15 Jul 2022 03:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[6:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_63/GRN30_1657525192628s5tdY_PNG/1657525049472.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
