@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Doorlesshouse (문없는집) - Summer Break (방학을 기다리던 날들) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/28743954</link>
+            <guid>https://tv.naver.com/v/28743954</guid>
+            <pubDate>Tue, 23 Aug 2022 10:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_150/slMhY_1661246405872r6SGA_PNG/1661246341074.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Doorlesshouse (문없는집) - Summer Break (방학을 기다리던 날들) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28595898</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_218/7cOea_1657607178533twMYs_PNG/1657607020161.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Orange Fang Fang Boys (오렌지 팡팡 보이즈) - Walking Dead (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27874476</link>
-            <guid>https://tv.naver.com/v/27874476</guid>
-            <pubDate>Thu, 14 Jul 2022 03:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_249/ARpyP_1657531052940GK91C_PNG/1657530888559.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
