@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 09:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 10:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Mingginyu(밍기뉴) - I Do Not Bid Farewell(작별하지 않는다) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/29102441</link>
+            <guid>https://tv.naver.com/v/29102441</guid>
+            <pubDate>Thu, 08 Sep 2022 10:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_22/IGtE4_1662628876710KViP9_PNG/1662628841992.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] marine (마린) - Loveyou! (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/28866921</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 09:10:17 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_6/SSggy_1657782957671OmDdu_PNG/1657782839886.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Tejong (테종) - Toys (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/27942489</link>
-            <guid>https://tv.naver.com/v/27942489</guid>
-            <pubDate>Fri, 15 Jul 2022 03:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_261/gxYNn_1657782603528T4cP1_PNG/1657782436827.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
