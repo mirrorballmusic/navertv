@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 10:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Xeuda(쓰다) - 나의 그림자를 안아주세요(Embrace my shadow, Please) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/30886967</link>
+            <guid>https://tv.naver.com/v/30886967</guid>
+            <pubDate>Fri, 18 Nov 2022 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_268/xpbWx_1668766488556FiMfQ_PNG/1668766442860.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Heo Hoy Kyung(허회경) - My Dear Love(오 사랑아) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/30693944</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_271/U8sYQ_1659087579819WtMgD_PNG/1659087504218.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Woobi (우비) - flower blizzard (꽃보라) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28166793</link>
-            <guid>https://tv.naver.com/v/28166793</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_183/vW9ni_1658803014626XluwK_PNG/1658802946925.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
