@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 12:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 10 to 4 - Communication(커뮤니케이션) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31090332</link>
+            <guid>https://tv.naver.com/v/31090332</guid>
+            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_73/X97EE_166937494260896eGz_PNG/1669374912309.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Cubanism(큐바니즘) - Rosalia (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31090324</link>
+            <guid>https://tv.naver.com/v/31090324</guid>
+            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_106/dFOLn_1669374913263RSqvw_JPEG/1669374854147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 10 to 4 - A Wave (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31090298</link>
+            <guid>https://tv.naver.com/v/31090298</guid>
+            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_173/pwRHW_1669374826592cb8D3_PNG/1669374806154.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] cotoba(코토바) - melon (2022 ver.) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31090278</link>
+            <guid>https://tv.naver.com/v/31090278</guid>
+            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[5:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_180/FgrwT_1669374758436prtFz_PNG/1669374693550.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] SOFNIKKE - DIFD (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31090245</link>
+            <guid>https://tv.naver.com/v/31090245</guid>
+            <pubDate>Fri, 25 Nov 2022 12:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_170/SvTXe_1669374674604rdMv0_PNG/1669374650265.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Xeuda(쓰다) - 나의 그림자를 안아주세요(Embrace my shadow, Please) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/30886967</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_139/cxyYk_1659691658960Hprwv_PNG/1659691566766.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] eunoo - 잠수 (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28359497</link>
-            <guid>https://tv.naver.com/v/28359497</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_299/ITU4W_1659574220266jcRP6_PNG/1659574152985.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] BUMJIN (범진) - LIGHT (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28301195</link>
-            <guid>https://tv.naver.com/v/28301195</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_225/OCe0y_1659347962847B8OLd_PNG/1659347886002.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Rati - The Same (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28301163</link>
-            <guid>https://tv.naver.com/v/28301163</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_128/hNWut_1659347846553C5m1L_PNG/1659347718896.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Itzel - NEW BIRTH (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28301116</link>
-            <guid>https://tv.naver.com/v/28301116</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_68/tvGHE_1659347695494IuhKg_PNG/1659347585750.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sucozy - ISTILLCAREABOUT (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28250860</link>
-            <guid>https://tv.naver.com/v/28250860</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_271/U8sYQ_1659087579819WtMgD_PNG/1659087504218.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
