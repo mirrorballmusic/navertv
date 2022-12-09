@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 11:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 12:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 6Band(육중완밴드) - I Have Nothing To Inherit(나는 물려받을 것이 없다네) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31484967</link>
+            <guid>https://tv.naver.com/v/31484967</guid>
+            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_103/IIvHn_1670584039434ti0Mi_PNG/1670584020312.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Attention 24(어텐션 24) - 313 (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31484943</link>
+            <guid>https://tv.naver.com/v/31484943</guid>
+            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_13/fB1jz_1670583984105GKJ6M_JPEG/68ec59f4-77b1-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] dalm_eun(닮은) - Still Miss You(이렇게까지) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/31484926</link>
+            <guid>https://tv.naver.com/v/31484926</guid>
+            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_160/Q2Kgf_167058392661023fcy_PNG/1670583901558.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Kim Hyo Rin(김효린) - Kind Of Love(어떤 사랑) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/31292494</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[5:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_64/4xOmz_1663235257248k48WB_PNG/1663235225021.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Mingginyu(밍기뉴) - I Do Not Bid Farewell(작별하지 않는다) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29102441</link>
-            <guid>https://tv.naver.com/v/29102441</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_22/IGtE4_1662628876710KViP9_PNG/1662628841992.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] marine (마린) - Loveyou! (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28866921</link>
-            <guid>https://tv.naver.com/v/28866921</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_5/4sSeI_1661741809589kvpbJ_PNG/1661741726202.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] mongoo (몬구) - let's walk this universe (한 잔만 더 마시고 우리 이 우주를 걷자) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/28866879</link>
-            <guid>https://tv.naver.com/v/28866879</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_166/DXYV4_1661741692290nvEpL_PNG/1661741627571.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
