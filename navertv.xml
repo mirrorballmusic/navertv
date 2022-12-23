@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 13:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Ferry Blue(페리블루) - Game Over]]></title>
+            <link>https://tv.naver.com/v/31853568</link>
+            <guid>https://tv.naver.com/v/31853568</guid>
+            <pubDate>Fri, 23 Dec 2022 14:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_257/gDrm6_16718040552971IpXW_PNG/1671804026282.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] sookhyung kim(김숙형) & sucozy - ICARUS(너의 문장들)]]></title>
             <link>https://tv.naver.com/v/31669755</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220923_237/lhkP9_1663925771060InOnU_PNG/1663925738907.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PO.U.RYU(포유류) - Mal(말) (4K)]]></title>
-            <link>https://tv.naver.com/v/29413082</link>
-            <guid>https://tv.naver.com/v/29413082</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220923_59/WPWPd_1663925651889G35Fn_PNG/1663925613630.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
