@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 09:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 10:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Vinyl Source(바이닐소스) & CR Taegyu(CR태규) - Unremembered]]></title>
+            <link>https://tv.naver.com/v/32060511</link>
+            <guid>https://tv.naver.com/v/32060511</guid>
+            <pubDate>Mon, 02 Jan 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_33/gbS4O_1672653969750sPPGg_PNG/1672653879385.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] TARIN(타린) - Movie Winter]]></title>
+            <link>https://tv.naver.com/v/32060476</link>
+            <guid>https://tv.naver.com/v/32060476</guid>
+            <pubDate>Mon, 02 Jan 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_51/xSzyK_1672653860029GfevA_PNG/1672653802961.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Ferry Blue(페리블루) - Game Over]]></title>
             <link>https://tv.naver.com/v/31853568</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[5:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220930_243/UVeAr_1664533376432EYFz5_PNG/1664533325328.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Far East Asian Tigers(극동아시아타이거즈) - Mosquito(모기)]]></title>
-            <link>https://tv.naver.com/v/29591758</link>
-            <guid>https://tv.naver.com/v/29591758</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_282/OCbQv_1664533303804wtoLw_PNG/1664533259436.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] e_so(이소) - Island(섬)]]></title>
-            <link>https://tv.naver.com/v/29413145</link>
-            <guid>https://tv.naver.com/v/29413145</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220923_237/lhkP9_1663925771060InOnU_PNG/1663925738907.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
