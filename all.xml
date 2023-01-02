@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 10:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 11:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Kimdamso(김담소) - Winter Day(겨울날) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32060577</link>
+            <guid>https://tv.naver.com/v/32060577</guid>
+            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_190/Deah5_1672654126344LTLgm_PNG/1672654103607.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] hositamtam(호시탐탐) - green(초록) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32060563</link>
+            <guid>https://tv.naver.com/v/32060563</guid>
+            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_12/WYM6p_16726540842872Yp62_PNG/1672654062921.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PO.U.RYU(포유류) - Night(밤 (Bomb)) (4K) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32060533</link>
+            <guid>https://tv.naver.com/v/32060533</guid>
+            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_171/r1wQQ_1672654023280zkeDD_PNG/1672654001801.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Vinyl Source(바이닐소스) & CR Taegyu(CR태규) - Unremembered (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/32060511</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221007_46/7Z0Ct_16651372502703T92Q_PNG/1665137220689.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Zeonpasa(전파사) - 신바람 (feat. 임원희) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29760202</link>
-            <guid>https://tv.naver.com/v/29760202</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_28/kLgEN_1665137126338j2MC0_PNG/1665137028274.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] BenchWeLeo(벤치위레오) - Dolphins(Sonic Wave)(돌고래(Sonic Wave)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29591812</link>
-            <guid>https://tv.naver.com/v/29591812</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_259/140v9_1664533470343nOpxP_PNG/1664533405977.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Gukjeondan(국악전자유랑단) - Nowdays Nobleman(요즘 양반) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29591786</link>
-            <guid>https://tv.naver.com/v/29591786</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_243/UVeAr_1664533376432EYFz5_PNG/1664533325328.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
