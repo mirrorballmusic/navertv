@@ -4,9 +4,65 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 08:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 09:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] H.M. Moon(문희뫼) - The Dreamer's Sweet Dream(몽상가의 단잠) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32532160</link>
+            <guid>https://tv.naver.com/v/32532160</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_167/AZOQ6_1674205420197fDnQD_PNG/1674205308111.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] HOSU(호수) - Going to you(너에게로) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531916</link>
+            <guid>https://tv.naver.com/v/32531916</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_234/8Ot6g_1674204890030Qc11d_PNG/1674204850808.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Old Yearning(옛그리움) - Snowflake(설화 雪華) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531877</link>
+            <guid>https://tv.naver.com/v/32531877</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_68/wuUou_1674204815249euqix_PNG/1674204789690.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Han Yeoyoo(한여유) - Loving You is Loving Me(사랑하는 일) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531857</link>
+            <guid>https://tv.naver.com/v/32531857</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_74/4GUVs_1674204769372kJMUr_PNG/1674204741968.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] FRIDA-ANNE(프리다앤) - BURN-OUT (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531834</link>
+            <guid>https://tv.naver.com/v/32531834</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_68/wFAv8_1674204710738RWass_PNG/1674204667636.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] ONE OFF(원오프) - Whenever (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531786</link>
+            <guid>https://tv.naver.com/v/32531786</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_42/3Yz9d_1674204641843db7VP_PNG/1674204589288.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] M.I(엠아이) - ASAP DO (feat. Taksoo) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32531736</link>
+            <guid>https://tv.naver.com/v/32531736</guid>
+            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_36/690kW_16742045343535VCKA_PNG/1674204492374.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Kimdamso(김담소) - Winter Day(겨울날) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/32060577</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:30 GMT</pubDate>
             <content:encoded><![CDATA[5:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221111_16/zc0hy_1668160584682651Af_PNG/1668160487545.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] ABTB - BULLY (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/30693867</link>
-            <guid>https://tv.naver.com/v/30693867</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_149/OpPQN_1668160349482h0oXB_PNG/1668160302580.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Oliv(올립) - Incense(향) (feat. Beak Dooin(백두인)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/30321085</link>
-            <guid>https://tv.naver.com/v/30321085</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_194/hdAs2_1666951332041ISfYo_PNG/1666951287911.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sung Hyungoo(성현구) - Small Land(작은 땅) (feat. Jeon chanjun(전찬준)) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/30321042</link>
-            <guid>https://tv.naver.com/v/30321042</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_165/xzzGF_1666951195584vCE2B_PNG/1666951161690.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Biuret(뷰렛) - Polaris(북극성) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/30268286</link>
-            <guid>https://tv.naver.com/v/30268286</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_66/xtQ7f_1666831333496WbXz2_PNG/1666831018083.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Lyric Video] Shin Yun Su(신윤수) & Swon(스원) - We are(우리는 여름이라서) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29929272</link>
-            <guid>https://tv.naver.com/v/29929272</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_169/l7xFW_1665736395056MYET5_PNG/1665736361292.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] The Black Underground - People Talk Too Much (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29929219</link>
-            <guid>https://tv.naver.com/v/29929219</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_193/J5xhY_1665736329853de3ol_PNG/1665736296166.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Rolling Quartz(롤링쿼츠) - NAZABABARA (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/29760261</link>
-            <guid>https://tv.naver.com/v/29760261</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_46/7Z0Ct_16651372502703T92Q_PNG/1665137220689.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
