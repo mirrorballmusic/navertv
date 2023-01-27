@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 11:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 12:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Llwyd(루이드) - I See You, You See Him(나는 너를, 너는 그를) (4K) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/32678639</link>
+            <guid>https://tv.naver.com/v/32678639</guid>
+            <pubDate>Fri, 27 Jan 2023 12:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_43/DrhKd_16748215335848PuOM_PNG/1674821508238.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Byeoldabang(별다방) - Vanilla latte(바닐라라떼) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/32532261</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
             <content:encoded><![CDATA[5:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_180/FgrwT_1669374758436prtFz_PNG/1669374693550.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] SOFNIKKE - DIFD (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31090245</link>
-            <guid>https://tv.naver.com/v/31090245</guid>
-            <pubDate>Fri, 25 Nov 2022 12:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_170/SvTXe_1669374674604rdMv0_PNG/1669374650265.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
