@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 11:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 12:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Itzel - Dreaming Of The Days (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33046126</link>
+            <guid>https://tv.naver.com/v/33046126</guid>
+            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_49/z1I2E_1676028112070ashAv_PNG/1676027960854.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] DYANI - UNTITLED(제목없음) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33046040</link>
+            <guid>https://tv.naver.com/v/33046040</guid>
+            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_10/xeqfY_1676027904978adcQo_PNG/1676027891494.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Kim Yeonsong(김연송) - Night Song(밤에 듣는 노래) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33046025</link>
+            <guid>https://tv.naver.com/v/33046025</guid>
+            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_282/YTbIz_1676027861904sDw3B_PNG/1676027793662.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Kim Yeonsong(김연송) - Skylane (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33045971</link>
+            <guid>https://tv.naver.com/v/33045971</guid>
+            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_71/X4hmg_16760277203413qKW1_PNG/1676027668376.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Jeonghoon Kim(김정훈) - Me too(나도 그래) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33045937</link>
+            <guid>https://tv.naver.com/v/33045937</guid>
+            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_217/PymRN_16760276512310U1xF_PNG/1676027605860.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Llwyd(루이드) - I See You, You See Him(나는 너를, 너는 그를) (4K) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/32678639</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 15:10:09 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_147/1rY4J_1669990816795MWXhp_PNG/1669990799563.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Honey Pepper(허니페퍼) - The Long Way (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31282908</link>
-            <guid>https://tv.naver.com/v/31282908</guid>
-            <pubDate>Fri, 02 Dec 2022 08:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_2/fcoGz_1669967696106EOpXY_PNG/1669967664120.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 10 to 4 - Communication(커뮤니케이션) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31090332</link>
-            <guid>https://tv.naver.com/v/31090332</guid>
-            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_73/X97EE_166937494260896eGz_PNG/1669374912309.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Cubanism(큐바니즘) - Rosalia (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31090324</link>
-            <guid>https://tv.naver.com/v/31090324</guid>
-            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_106/dFOLn_1669374913263RSqvw_JPEG/1669374854147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 10 to 4 - A Wave (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31090298</link>
-            <guid>https://tv.naver.com/v/31090298</guid>
-            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_173/pwRHW_1669374826592cb8D3_PNG/1669374806154.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] cotoba(코토바) - melon (2022 ver.) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31090278</link>
-            <guid>https://tv.naver.com/v/31090278</guid>
-            <pubDate>Fri, 25 Nov 2022 12:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_180/FgrwT_1669374758436prtFz_PNG/1669374693550.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
