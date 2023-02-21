@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 10:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 11:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 17 Feb 2023 14:08:59 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_211/qsgEp_1676639832387y57QL_PNG/1676639792707.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 8rosh peridot(8호실 peridot) -캠프를 떠나 (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/33238358</link>
+            <guid>https://tv.naver.com/v/33238358</guid>
+            <pubDate>Tue, 21 Feb 2023 11:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_183/FgJYf_1676639775559DA5BO_PNG/1676639699656.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Itzel - Dreaming Of The Days (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_160/Q2Kgf_167058392661023fcy_PNG/1670583901558.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kim Hyo Rin(김효린) - Kind Of Love(어떤 사랑) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/31292494</link>
-            <guid>https://tv.naver.com/v/31292494</guid>
-            <pubDate>Fri, 02 Dec 2022 15:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_287/ZL3Cn_16699912742613tncj_PNG/1669991129962.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
