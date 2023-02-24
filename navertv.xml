@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] WACK - Cliché]]></title>
+            <link>https://tv.naver.com/v/33440947</link>
+            <guid>https://tv.naver.com/v/33440947</guid>
+            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_144/y1PlT_1677229206791Xv17j_PNG/1677229182895.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] skip intro(스킵인트로) - It's Alright (feat. Lewna)]]></title>
+            <link>https://tv.naver.com/v/33440894</link>
+            <guid>https://tv.naver.com/v/33440894</guid>
+            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_67/fiP06_1677229086924rqNn8_PNG/1677229045725.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] moonflower - Typing]]></title>
+            <link>https://tv.naver.com/v/33440860</link>
+            <guid>https://tv.naver.com/v/33440860</guid>
+            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_31/k720I_1677229012605pHfR7_PNG/1677228968445.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - I’m a kid]]></title>
+            <link>https://tv.naver.com/v/33440821</link>
+            <guid>https://tv.naver.com/v/33440821</guid>
+            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_260/XUX0Q_16772289436263P6zN_PNG/1677228895143.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Coker(코커) - Glass(봐요)]]></title>
             <link>https://tv.naver.com/v/33238441</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 11:07:39 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_119/XLKGH_1671185459355Jhj2n_PNG/1671185426833.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunhye(선혜) - Full moon(만월이 빛나는)]]></title>
-            <link>https://tv.naver.com/v/31669717</link>
-            <guid>https://tv.naver.com/v/31669717</guid>
-            <pubDate>Fri, 16 Dec 2022 11:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_89/Ji41k_1671185337608uNlsS_PNG/1671185305573.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 6Band(육중완밴드) - I Have Nothing To Inherit(나는 물려받을 것이 없다네)]]></title>
-            <link>https://tv.naver.com/v/31484967</link>
-            <guid>https://tv.naver.com/v/31484967</guid>
-            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_103/IIvHn_1670584039434ti0Mi_PNG/1670584020312.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Attention 24(어텐션 24) - 313]]></title>
-            <link>https://tv.naver.com/v/31484943</link>
-            <guid>https://tv.naver.com/v/31484943</guid>
-            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_13/fB1jz_1670583984105GKJ6M_JPEG/68ec59f4-77b1-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] dalm_eun(닮은) - Still Miss You(이렇게까지)]]></title>
-            <link>https://tv.naver.com/v/31484926</link>
-            <guid>https://tv.naver.com/v/31484926</guid>
-            <pubDate>Fri, 09 Dec 2022 12:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_160/Q2Kgf_167058392661023fcy_PNG/1670583901558.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
