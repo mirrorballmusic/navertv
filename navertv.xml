@@ -4,9 +4,33 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 09:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 10:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Ahn Heesu(안희수) - OMG, It's pointless(아이고 의미 없다)]]></title>
+            <link>https://tv.naver.com/v/33856451</link>
+            <guid>https://tv.naver.com/v/33856451</guid>
+            <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_257/C7rBF_1678439746172yooGg_PNG/1678439626105.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Bae In Hyuk(배인혁) - Monster Odyssey(몬스터 오디세이)]]></title>
+            <link>https://tv.naver.com/v/33856387</link>
+            <guid>https://tv.naver.com/v/33856387</guid>
+            <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_76/SgEcA_1678439579743ofda3_PNG/1678439472144.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] About a Boy(어바웃어보이) - Penguin highway(펭귄 하이웨이)]]></title>
+            <link>https://tv.naver.com/v/33856321</link>
+            <guid>https://tv.naver.com/v/33856321</guid>
+            <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_4/YCwof_1678439444379hOde7_PNG/1678439418411.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] WACK - Cliché]]></title>
             <link>https://tv.naver.com/v/33440947</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 02 Jan 2023 10:09:30 GMT</pubDate>
             <content:encoded><![CDATA[6:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230102_33/gbS4O_1672653969750sPPGg_PNG/1672653879385.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] TARIN(타린) - Movie Winter]]></title>
-            <link>https://tv.naver.com/v/32060476</link>
-            <guid>https://tv.naver.com/v/32060476</guid>
-            <pubDate>Mon, 02 Jan 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_51/xSzyK_1672653860029GfevA_PNG/1672653802961.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Ferry Blue(페리블루) - Game Over]]></title>
-            <link>https://tv.naver.com/v/31853568</link>
-            <guid>https://tv.naver.com/v/31853568</guid>
-            <pubDate>Fri, 23 Dec 2022 14:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_257/gDrm6_16718040552971IpXW_PNG/1671804026282.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sookhyung kim(김숙형) & sucozy - ICARUS(너의 문장들)]]></title>
-            <link>https://tv.naver.com/v/31669755</link>
-            <guid>https://tv.naver.com/v/31669755</guid>
-            <pubDate>Fri, 16 Dec 2022 11:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_119/XLKGH_1671185459355Jhj2n_PNG/1671185426833.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
