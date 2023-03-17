@@ -4,9 +4,57 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 13:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 14:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] kangpyo(강표) - trap(덫)]]></title>
+            <link>https://tv.naver.com/v/34084991</link>
+            <guid>https://tv.naver.com/v/34084991</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_74/467iH_16790594616241Xc75_PNG/1679059440002.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Crackshot(크랙샷) - Goodbye My Love]]></title>
+            <link>https://tv.naver.com/v/34084976</link>
+            <guid>https://tv.naver.com/v/34084976</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[7:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_106/Qy7tL_1679059410698X6kyi_JPEG/1679059387551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] MOHOME(모험) - G.A.M.E YA!]]></title>
+            <link>https://tv.naver.com/v/34084950</link>
+            <guid>https://tv.naver.com/v/34084950</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_72/WEhnn_1679059350311jAjVo_JPEG/1679059309010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PO.U.RYU(포유류) - Camel(낙타)(4K)]]></title>
+            <link>https://tv.naver.com/v/34084923</link>
+            <guid>https://tv.naver.com/v/34084923</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_271/ebhWV_1679059293729cHuLv_PNG/1679059269753.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Bakjiji(박지지) - Rhythm Of Love(사랑의 쿵쿵따)]]></title>
+            <link>https://tv.naver.com/v/34084892</link>
+            <guid>https://tv.naver.com/v/34084892</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_205/FhNv8_1679059247510vIlPA_PNG/1679059228416.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PIETA(피에타) - Compassióne(동정에 대하여)]]></title>
+            <link>https://tv.naver.com/v/34084837</link>
+            <guid>https://tv.naver.com/v/34084837</guid>
+            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_257/xQkpB_1679059134384Sn2sl_PNG/1679059100446.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Ahn Heesu(안희수) - OMG, It's pointless(아이고 의미 없다)]]></title>
             <link>https://tv.naver.com/v/33856451</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_68/wFAv8_1674204710738RWass_PNG/1674204667636.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] ONE OFF(원오프) - Whenever]]></title>
-            <link>https://tv.naver.com/v/32531786</link>
-            <guid>https://tv.naver.com/v/32531786</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_42/3Yz9d_1674204641843db7VP_PNG/1674204589288.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] M.I(엠아이) - ASAP DO (feat. Taksoo)]]></title>
-            <link>https://tv.naver.com/v/32531736</link>
-            <guid>https://tv.naver.com/v/32531736</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_36/690kW_16742045343535VCKA_PNG/1674204492374.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kimdamso(김담소) - Winter Day(겨울날)]]></title>
-            <link>https://tv.naver.com/v/32060577</link>
-            <guid>https://tv.naver.com/v/32060577</guid>
-            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_190/Deah5_1672654126344LTLgm_PNG/1672654103607.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] hositamtam(호시탐탐) - green(초록)]]></title>
-            <link>https://tv.naver.com/v/32060563</link>
-            <guid>https://tv.naver.com/v/32060563</guid>
-            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_12/WYM6p_16726540842872Yp62_PNG/1672654062921.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PO.U.RYU(포유류) - Night(밤 (Bomb)) (4K)]]></title>
-            <link>https://tv.naver.com/v/32060533</link>
-            <guid>https://tv.naver.com/v/32060533</guid>
-            <pubDate>Mon, 02 Jan 2023 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_171/r1wQQ_1672654023280zkeDD_PNG/1672654001801.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Vinyl Source(바이닐소스) & CR Taegyu(CR태규) - Unremembered]]></title>
-            <link>https://tv.naver.com/v/32060511</link>
-            <guid>https://tv.naver.com/v/32060511</guid>
-            <pubDate>Mon, 02 Jan 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[6:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_33/gbS4O_1672653969750sPPGg_PNG/1672653879385.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
