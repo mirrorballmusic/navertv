@@ -4,9 +4,49 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 10:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 11:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] KWAK DONG HYUN(곽동현) - Still loving you(어떤 하루)]]></title>
+            <link>https://tv.naver.com/v/34306882</link>
+            <guid>https://tv.naver.com/v/34306882</guid>
+            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_27/gAWql_1679654561860F1yI9_PNG/1679654541770.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Shin Jikseon(신직선) - Caught In A Shower(소나기)]]></title>
+            <link>https://tv.naver.com/v/34306850</link>
+            <guid>https://tv.naver.com/v/34306850</guid>
+            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_227/ewuKS_1679654523692AgSdp_JPEG/746fd359-ca30-11ed-809b-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] CHUNGYOILE(청요일) - sorrow star(비애스타)]]></title>
+            <link>https://tv.naver.com/v/34306816</link>
+            <guid>https://tv.naver.com/v/34306816</guid>
+            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_228/icfOF_1679654461795KoS1p_PNG/1679654445762.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] BUMJIN(범진) - Congrats(축하해)]]></title>
+            <link>https://tv.naver.com/v/34306796</link>
+            <guid>https://tv.naver.com/v/34306796</guid>
+            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_211/a1X7z_1679654431110sC26B_PNG/1679654368224.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Adios Audio - PING(핑)]]></title>
+            <link>https://tv.naver.com/v/34306741</link>
+            <guid>https://tv.naver.com/v/34306741</guid>
+            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_66/4OBUx_16796543417200he2S_PNG/1679654321397.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] kangpyo(강표) - trap(덫)]]></title>
             <link>https://tv.naver.com/v/34084991</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 10:10:01 GMT</pubDate>
             <content:encoded><![CDATA[5:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_290/fCxBz_1674205658242LVnR4_PNG/1674205613271.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] H.M. Moon(문희뫼) - The Dreamer's Sweet Dream(몽상가의 단잠)]]></title>
-            <link>https://tv.naver.com/v/32532160</link>
-            <guid>https://tv.naver.com/v/32532160</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_167/AZOQ6_1674205420197fDnQD_PNG/1674205308111.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] HOSU(호수) - Going to you(너에게로)]]></title>
-            <link>https://tv.naver.com/v/32531916</link>
-            <guid>https://tv.naver.com/v/32531916</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_234/8Ot6g_1674204890030Qc11d_PNG/1674204850808.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Old Yearning(옛그리움) - Snowflake(설화 雪華)]]></title>
-            <link>https://tv.naver.com/v/32531877</link>
-            <guid>https://tv.naver.com/v/32531877</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_68/wuUou_1674204815249euqix_PNG/1674204789690.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Han Yeoyoo(한여유) - Loving You is Loving Me(사랑하는 일)]]></title>
-            <link>https://tv.naver.com/v/32531857</link>
-            <guid>https://tv.naver.com/v/32531857</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_74/4GUVs_1674204769372kJMUr_PNG/1674204741968.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] FRIDA-ANNE(프리다앤) - BURN-OUT]]></title>
-            <link>https://tv.naver.com/v/32531834</link>
-            <guid>https://tv.naver.com/v/32531834</guid>
-            <pubDate>Fri, 20 Jan 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_68/wFAv8_1674204710738RWass_PNG/1674204667636.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
