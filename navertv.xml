@@ -4,9 +4,57 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] sucozy - Unchanged(그대로만 그때의 난)]]></title>
+            <link>https://tv.naver.com/v/34576967</link>
+            <guid>https://tv.naver.com/v/34576967</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_218/v2car_1680500950829urMtb_PNG/1680500843351.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Lee Jung Kwon(이정권) - I'll be your everything(나는 무엇이든 되어)]]></title>
+            <link>https://tv.naver.com/v/34576789</link>
+            <guid>https://tv.naver.com/v/34576789</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_170/Jjpo6_1680500641040i9zgu_PNG/1680500618649.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Analog Invasion X BAEK(아날로그 인베이전 X 백경호) - Noir(누아르)]]></title>
+            <link>https://tv.naver.com/v/34576759</link>
+            <guid>https://tv.naver.com/v/34576759</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_172/MDYRK_16805005802428yJrY_PNG/1680500554114.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Soppy - Nous avons acheté un calendrier(우리는 달력을 샀다)]]></title>
+            <link>https://tv.naver.com/v/34576687</link>
+            <guid>https://tv.naver.com/v/34576687</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_145/swuDf_16805004670318laEe_PNG/1680500412145.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - everything is gonna be alright]]></title>
+            <link>https://tv.naver.com/v/34576648</link>
+            <guid>https://tv.naver.com/v/34576648</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[7:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_63/7TEiO_1680500392478PxicT_PNG/1680500216517.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Deogi408(덕이408) - Islander(섬으로 가자)]]></title>
+            <link>https://tv.naver.com/v/34576537</link>
+            <guid>https://tv.naver.com/v/34576537</guid>
+            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_178/Iw967_1680500178050DYDdO_PNG/1680500155436.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] KWAK DONG HYUN(곽동현) - Still loving you(어떤 하루)]]></title>
             <link>https://tv.naver.com/v/34306882</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_10/xeqfY_1676027904978adcQo_PNG/1676027891494.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kim Yeonsong(김연송) - Night Song(밤에 듣는 노래)]]></title>
-            <link>https://tv.naver.com/v/33046025</link>
-            <guid>https://tv.naver.com/v/33046025</guid>
-            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_282/YTbIz_1676027861904sDw3B_PNG/1676027793662.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kim Yeonsong(김연송) - Skylane]]></title>
-            <link>https://tv.naver.com/v/33045971</link>
-            <guid>https://tv.naver.com/v/33045971</guid>
-            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_71/X4hmg_16760277203413qKW1_PNG/1676027668376.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Jeonghoon Kim(김정훈) - Me too(나도 그래)]]></title>
-            <link>https://tv.naver.com/v/33045937</link>
-            <guid>https://tv.naver.com/v/33045937</guid>
-            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_217/PymRN_16760276512310U1xF_PNG/1676027605860.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Llwyd(루이드) - I See You, You See Him(나는 너를, 너는 그를) (4K)]]></title>
-            <link>https://tv.naver.com/v/32678639</link>
-            <guid>https://tv.naver.com/v/32678639</guid>
-            <pubDate>Fri, 27 Jan 2023 12:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_43/DrhKd_16748215335848PuOM_PNG/1674821508238.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Byeoldabang(별다방) - Vanilla latte(바닐라라떼)]]></title>
-            <link>https://tv.naver.com/v/32532261</link>
-            <guid>https://tv.naver.com/v/32532261</guid>
-            <pubDate>Fri, 20 Jan 2023 10:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_47/evKyZ_1674205703097WedHJ_PNG/1674205680408.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] ReMidas(리마이더스) - A new of new song(신新새가락별곡)]]></title>
-            <link>https://tv.naver.com/v/32532248</link>
-            <guid>https://tv.naver.com/v/32532248</guid>
-            <pubDate>Fri, 20 Jan 2023 10:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_290/fCxBz_1674205658242LVnR4_PNG/1674205613271.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
