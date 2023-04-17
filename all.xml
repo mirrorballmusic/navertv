@@ -4,9 +4,65 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 06:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Juwon Kwon(권주원) - We Are Still(우린 아직) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35027137</link>
+            <guid>https://tv.naver.com/v/35027137</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_246/8asRS_1681709829071rWwsC_JPEG/1681709826268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Red C - The Place(그 자리) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35027021</link>
+            <guid>https://tv.naver.com/v/35027021</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_249/1qe6Z_1681709622812g4iq9_PNG/1681709597298.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Sunset On The Bridge - Freedom Train (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026991</link>
+            <guid>https://tv.naver.com/v/35026991</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_59/kzY30_1681709577414umXe3_PNG/1681709549336.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Orangeindigo(오렌지인디고) - FOREVER (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026944</link>
+            <guid>https://tv.naver.com/v/35026944</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_3/ZDCoH_1681709520553FX9PJ_PNG/1681709494082.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] THMOON(문웅주) - summer days(여름방학일기) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026908</link>
+            <guid>https://tv.naver.com/v/35026908</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_266/MUpfk_1681709476081f93mW_PNG/1681709448977.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] THMOON(문웅주) - Dormant(문과 문 사이에 잠들어버린 나는) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026877</link>
+            <guid>https://tv.naver.com/v/35026877</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_131/K92xd_1681709438546BIkOI_PNG/1681709416706.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] HOSU(호수) - Already Spring(어느새 봄) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026810</link>
+            <guid>https://tv.naver.com/v/35026810</guid>
+            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_165/9KfBF_1681709342148fd35E_PNG/1681709312369.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] sucozy - Unchanged(그대로만 그때의 난) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/34576967</link>
@@ -109,7 +165,7 @@
             <guid>https://tv.naver.com/v/34084976</guid>
             <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[7:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_106/Qy7tL_1679059410698X6kyi_JPEG/1679059387551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_93/xBLJJ_1681709917936PJGoA_PNG/1681709913280.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] MOHOME(모험) - G.A.M.E YA! (네이버TV ─ 미러볼뮤직)]]></title>
@@ -117,7 +173,7 @@
             <guid>https://tv.naver.com/v/34084950</guid>
             <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_72/WEhnn_1679059350311jAjVo_JPEG/1679059309010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_116/8VebP_1681709935458yKBym_PNG/1681709932938.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] PO.U.RYU(포유류) - Camel(낙타)(4K) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_31/k720I_1677229012605pHfR7_PNG/1677228968445.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - I’m a kid (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33440821</link>
-            <guid>https://tv.naver.com/v/33440821</guid>
-            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_260/XUX0Q_16772289436263P6zN_PNG/1677228895143.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Coker(코커) - Glass(봐요) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33238441</link>
-            <guid>https://tv.naver.com/v/33238441</guid>
-            <pubDate>Fri, 17 Feb 2023 14:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_130/jx7Vi_1676639977916CBY9C_PNG/1676639965412.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Jeonghoon Kim(김정훈) - Me too(나도 그래) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33238416</link>
-            <guid>https://tv.naver.com/v/33238416</guid>
-            <pubDate>Fri, 17 Feb 2023 14:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_171/RFDld_16766399208324bNIq_PNG/1676639859461.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 8rosh peridot(8호실 peridot) - Please (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33238383</link>
-            <guid>https://tv.naver.com/v/33238383</guid>
-            <pubDate>Fri, 17 Feb 2023 14:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_211/qsgEp_1676639832387y57QL_PNG/1676639792707.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 8rosh peridot(8호실 peridot) -캠프를 떠나 (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33238358</link>
-            <guid>https://tv.naver.com/v/33238358</guid>
-            <pubDate>Tue, 21 Feb 2023 11:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_183/FgJYf_1676639775559DA5BO_PNG/1676639699656.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Itzel - Dreaming Of The Days (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33046126</link>
-            <guid>https://tv.naver.com/v/33046126</guid>
-            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_49/z1I2E_1676028112070ashAv_PNG/1676027960854.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] DYANI - UNTITLED(제목없음) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33046040</link>
-            <guid>https://tv.naver.com/v/33046040</guid>
-            <pubDate>Fri, 10 Feb 2023 12:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_10/xeqfY_1676027904978adcQo_PNG/1676027891494.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
