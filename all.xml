@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 02:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 03:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_165/9KfBF_1681709342148fd35E_PNG/1681709312369.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] sucozy - Messenger (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35026709</link>
+            <guid>https://tv.naver.com/v/35026709</guid>
+            <pubDate>Tue, 18 Apr 2023 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_44/Hh360_1681709182437WORxV_PNG/1681709152293.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] sucozy - Unchanged(그대로만 그때의 난) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_67/fiP06_1677229086924rqNn8_PNG/1677229045725.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] moonflower - Typing (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33440860</link>
-            <guid>https://tv.naver.com/v/33440860</guid>
-            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_31/k720I_1677229012605pHfR7_PNG/1677228968445.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
