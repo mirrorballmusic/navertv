@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 09:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 10:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Flying Dog(플라잉독) - No Regrets(끝이라는 생각으로) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35608723</link>
+            <guid>https://tv.naver.com/v/35608723</guid>
+            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_153/dE9k7_1683192708620vSh21_PNG/1683192598910.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] JANG SO YOUNG(장소영) - Song of freedom(자유의 노래) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35608649</link>
+            <guid>https://tv.naver.com/v/35608649</guid>
+            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_136/ZmqRp_1683192572276uNj9q_PNG/1683192531834.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Shin kyoung woo(신경우) - Home(홈) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35608608</link>
+            <guid>https://tv.naver.com/v/35608608</guid>
+            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_75/QLpoa_1683192511424XY9vt_PNG/1683192482636.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Juwon Kwon(권주원) - We Are Still(우린 아직) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/35027137</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_76/SgEcA_1678439579743ofda3_PNG/1678439472144.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] About a Boy(어바웃어보이) - Penguin highway(펭귄 하이웨이) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33856321</link>
-            <guid>https://tv.naver.com/v/33856321</guid>
-            <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_4/YCwof_1678439444379hOde7_PNG/1678439418411.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] WACK - Cliché (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33440947</link>
-            <guid>https://tv.naver.com/v/33440947</guid>
-            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_144/y1PlT_1677229206791Xv17j_PNG/1677229182895.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] skip intro(스킵인트로) - It's Alright (feat. Lewna) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33440894</link>
-            <guid>https://tv.naver.com/v/33440894</guid>
-            <pubDate>Fri, 24 Feb 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_67/fiP06_1677229086924rqNn8_PNG/1677229045725.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
