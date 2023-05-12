@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Doorlesshouse(문없는집) - Alchemist (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35866856</link>
+            <guid>https://tv.naver.com/v/35866856</guid>
+            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_143/7tlO0_16838788384624H8qt_PNG/1683878820760.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Llwyd(루이드) - You Complete Me(채워줘) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35866626</link>
+            <guid>https://tv.naver.com/v/35866626</guid>
+            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_55/cYr7n_1683878580738MCVcj_PNG/1683878531458.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Sunhye(선혜) - brain circuitry(뇌의 회로) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35866539</link>
+            <guid>https://tv.naver.com/v/35866539</guid>
+            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_137/gNcHI_1683878479720konaP_PNG/1683878462150.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Far East Asian Tigers(극동아시아타이거즈) - look back(이제는) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/35610408</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_271/ebhWV_1679059293729cHuLv_PNG/1679059269753.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Bakjiji(박지지) - Rhythm Of Love(사랑의 쿵쿵따) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34084892</link>
-            <guid>https://tv.naver.com/v/34084892</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_205/FhNv8_1679059247510vIlPA_PNG/1679059228416.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PIETA(피에타) - Compassióne(동정에 대하여) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34084837</link>
-            <guid>https://tv.naver.com/v/34084837</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_257/xQkpB_1679059134384Sn2sl_PNG/1679059100446.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Ahn Heesu(안희수) - OMG, It's pointless(아이고 의미 없다) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/33856451</link>
-            <guid>https://tv.naver.com/v/33856451</guid>
-            <pubDate>Fri, 10 Mar 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_257/C7rBF_1678439746172yooGg_PNG/1678439626105.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
