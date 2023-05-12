@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 08:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Lim Hoyeon(임호연) - Expansion (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35867109</link>
+            <guid>https://tv.naver.com/v/35867109</guid>
+            <pubDate>Fri, 12 May 2023 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_78/i6axE_1683879110817zU7gS_PNG/1683879088954.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Doorlesshouse(문없는집) - Alchemist (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/35866856</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_143/7tlO0_16838788384624H8qt_PNG/1683878820760.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] we hate jh - Go 4(풀악셀) (4K) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/35866759</link>
+            <guid>https://tv.naver.com/v/35866759</guid>
+            <pubDate>Fri, 12 May 2023 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_136/Eo0Yh_1683878740479VWBhO_JPEG/1683878729574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] Llwyd(루이드) - You Complete Me(채워줘) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[7:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_93/xBLJJ_1681709917936PJGoA_PNG/1681709913280.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] MOHOME(모험) - G.A.M.E YA! (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34084950</link>
-            <guid>https://tv.naver.com/v/34084950</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_116/8VebP_1681709935458yKBym_PNG/1681709932938.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PO.U.RYU(포유류) - Camel(낙타)(4K) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34084923</link>
-            <guid>https://tv.naver.com/v/34084923</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_271/ebhWV_1679059293729cHuLv_PNG/1679059269753.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
