@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 11:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 12:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] PARK CHO WON(박초원) - You Call me love(내게 사랑이라 부르는)]]></title>
+            <link>https://tv.naver.com/v/36110124</link>
+            <guid>https://tv.naver.com/v/36110124</guid>
+            <pubDate>Fri, 19 May 2023 12:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_281/0Fo98_1684496326195DVj0B_PNG/1684496307101.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] JUNGWOO(정우) - The Summer(그 여름)]]></title>
+            <link>https://tv.naver.com/v/36110061</link>
+            <guid>https://tv.naver.com/v/36110061</guid>
+            <pubDate>Fri, 19 May 2023 12:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_216/Fm01S_1684496193165D6E4z_PNG/1684496166186.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Lim Hoyeon(임호연) - Expansion]]></title>
             <link>https://tv.naver.com/v/35867109</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_66/4OBUx_16796543417200he2S_PNG/1679654321397.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] kangpyo(강표) - trap(덫)]]></title>
-            <link>https://tv.naver.com/v/34084991</link>
-            <guid>https://tv.naver.com/v/34084991</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_74/467iH_16790594616241Xc75_PNG/1679059440002.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Crackshot(크랙샷) - Goodbye My Love]]></title>
-            <link>https://tv.naver.com/v/34084976</link>
-            <guid>https://tv.naver.com/v/34084976</guid>
-            <pubDate>Fri, 17 Mar 2023 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[7:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_93/xBLJJ_1681709917936PJGoA_PNG/1681709913280.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
