@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 10:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 11:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] CRYING NUT(크라잉넛) - Night overtime(야근) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36743597</link>
+            <guid>https://tv.naver.com/v/36743597</guid>
+            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_104/vhK6p_1686132552588e7i2A_PNG/1686132536080.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Old Yearning(옛그리움) - Light and Salt(빛과 소금) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36743533</link>
+            <guid>https://tv.naver.com/v/36743533</guid>
+            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_228/gEtIq_1686132454809pcsf0_PNG/1686132385836.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Mitaverse(미타버스) - Fluttering(훨훨) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36743468</link>
+            <guid>https://tv.naver.com/v/36743468</guid>
+            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_248/WQd2b_1686132361806jGzF0_PNG/1686132341714.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Yojung(요정) - Anger issue(화가 나 있어) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/36743435</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_145/swuDf_16805004670318laEe_PNG/1680500412145.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - everything is gonna be alright (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576648</link>
-            <guid>https://tv.naver.com/v/34576648</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[7:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_63/7TEiO_1680500392478PxicT_PNG/1680500216517.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Deogi408(덕이408) - Islander(섬으로 가자) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576537</link>
-            <guid>https://tv.naver.com/v/34576537</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_178/Iw967_1680500178050DYDdO_PNG/1680500155436.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] KWAK DONG HYUN(곽동현) - Still loving you(어떤 하루) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34306882</link>
-            <guid>https://tv.naver.com/v/34306882</guid>
-            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_27/gAWql_1679654561860F1yI9_PNG/1679654541770.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
