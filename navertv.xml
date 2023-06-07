@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 09:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 10:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Yojung(요정) - Anger issue(화가 나 있어)]]></title>
+            <link>https://tv.naver.com/v/36743435</link>
+            <guid>https://tv.naver.com/v/36743435</guid>
+            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_68/1gMDJ_1686132312586AscyG_JPEG/1686132296273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Yojung(요정) - Is that it?(너 그것밖에 안돼?)]]></title>
+            <link>https://tv.naver.com/v/36743392</link>
+            <guid>https://tv.naver.com/v/36743392</guid>
+            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_95/gRvzG_1686132232412yI4kg_PNG/1686132211630.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] HLIN(홀린) - Like a pale white butterfly(이 밤)]]></title>
+            <link>https://tv.naver.com/v/36743376</link>
+            <guid>https://tv.naver.com/v/36743376</guid>
+            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_164/EEQKe_1686132197478zxK1m_PNG/1686132149213.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] GHIK(교환일기) - Playback]]></title>
+            <link>https://tv.naver.com/v/36743345</link>
+            <guid>https://tv.naver.com/v/36743345</guid>
+            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_181/MG43t_1686132124128AjVWH_PNG/1686132106191.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] PARK CHO WON(박초원) - You Call me love(내게 사랑이라 부르는)]]></title>
             <link>https://tv.naver.com/v/36110124</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_27/gAWql_1679654561860F1yI9_PNG/1679654541770.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Shin Jikseon(신직선) - Caught In A Shower(소나기)]]></title>
-            <link>https://tv.naver.com/v/34306850</link>
-            <guid>https://tv.naver.com/v/34306850</guid>
-            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_227/ewuKS_1679654523692AgSdp_JPEG/746fd359-ca30-11ed-809b-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] CHUNGYOILE(청요일) - sorrow star(비애스타)]]></title>
-            <link>https://tv.naver.com/v/34306816</link>
-            <guid>https://tv.naver.com/v/34306816</guid>
-            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_228/icfOF_1679654461795KoS1p_PNG/1679654445762.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] BUMJIN(범진) - Congrats(축하해)]]></title>
-            <link>https://tv.naver.com/v/34306796</link>
-            <guid>https://tv.naver.com/v/34306796</guid>
-            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_211/a1X7z_1679654431110sC26B_PNG/1679654368224.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Adios Audio - PING(핑)]]></title>
-            <link>https://tv.naver.com/v/34306741</link>
-            <guid>https://tv.naver.com/v/34306741</guid>
-            <pubDate>Fri, 24 Mar 2023 11:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_66/4OBUx_16796543417200he2S_PNG/1679654321397.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
