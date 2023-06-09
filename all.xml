@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 12:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 13:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Younwho(연후) - One sip of Love(한 톨의 사랑) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36831272</link>
+            <guid>https://tv.naver.com/v/36831272</guid>
+            <pubDate>Fri, 09 Jun 2023 13:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_72/OzUu8_1686315478815Mg4Ma_PNG/1686315458997.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Mosshill(모스힐) - Grave(분) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36831242</link>
+            <guid>https://tv.naver.com/v/36831242</guid>
+            <pubDate>Fri, 09 Jun 2023 13:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_12/UymsZ_16863154292710nBop_PNG/1686315367083.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PPS (print print shop) - Baegmagang River(백마강) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36831194</link>
+            <guid>https://tv.naver.com/v/36831194</guid>
+            <pubDate>Fri, 09 Jun 2023 13:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_162/l8Z9C_1686315344152DVznQ_JPEG/1686315296818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] London Fuzz - Say Hello Again (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/36831152</link>
+            <guid>https://tv.naver.com/v/36831152</guid>
+            <pubDate>Fri, 09 Jun 2023 13:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_58/g3LhY_1686315274903LABW2_PNG/1686315258382.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] CRYING NUT(크라잉넛) - Night overtime(야근) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/36743597</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 18 Apr 2023 03:09:10 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_44/Hh360_1681709182437WORxV_PNG/1681709152293.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sucozy - Unchanged(그대로만 그때의 난) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576967</link>
-            <guid>https://tv.naver.com/v/34576967</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_218/v2car_1680500950829urMtb_PNG/1680500843351.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lee Jung Kwon(이정권) - I'll be your everything(나는 무엇이든 되어) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576789</link>
-            <guid>https://tv.naver.com/v/34576789</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_170/Jjpo6_1680500641040i9zgu_PNG/1680500618649.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Analog Invasion X BAEK(아날로그 인베이전 X 백경호) - Noir(누아르) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576759</link>
-            <guid>https://tv.naver.com/v/34576759</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_172/MDYRK_16805005802428yJrY_PNG/1680500554114.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Soppy - Nous avons acheté un calendrier(우리는 달력을 샀다) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/34576687</link>
-            <guid>https://tv.naver.com/v/34576687</guid>
-            <pubDate>Mon, 03 Apr 2023 06:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_145/swuDf_16805004670318laEe_PNG/1680500412145.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
