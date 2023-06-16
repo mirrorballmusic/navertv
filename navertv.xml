@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] oshii - Original]]></title>
+            <link>https://tv.naver.com/v/37071660</link>
+            <guid>https://tv.naver.com/v/37071660</guid>
+            <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_256/SzpZ0_1686908405784MPf6U_PNG/1686908380451.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Cho Hyung Woo(조형우) - Your Name(이름으로)]]></title>
+            <link>https://tv.naver.com/v/37071640</link>
+            <guid>https://tv.naver.com/v/37071640</guid>
+            <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_171/JcKgU_1686908353561kbCE8_PNG/1686908334083.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Hosun(호선) - Breeze(고요)]]></title>
+            <link>https://tv.naver.com/v/37071620</link>
+            <guid>https://tv.naver.com/v/37071620</guid>
+            <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_73/9Z14W_1686908317311V0y4W_JPEG/1686908302973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PO.U.RYU(포유류) - Like The Earth(지구처럼) (4K)]]></title>
+            <link>https://tv.naver.com/v/37071598</link>
+            <guid>https://tv.naver.com/v/37071598</guid>
+            <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_124/gSPmz_1686908282063v5n37_PNG/1686908264928.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Younwho(연후) - One sip of Love(한 톨의 사랑)]]></title>
             <link>https://tv.naver.com/v/36831272</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_3/ZDCoH_1681709520553FX9PJ_PNG/1681709494082.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] THMOON(문웅주) - summer days(여름방학일기)]]></title>
-            <link>https://tv.naver.com/v/35026908</link>
-            <guid>https://tv.naver.com/v/35026908</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_266/MUpfk_1681709476081f93mW_PNG/1681709448977.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] THMOON(문웅주) - Dormant(문과 문 사이에 잠들어버린 나는)]]></title>
-            <link>https://tv.naver.com/v/35026877</link>
-            <guid>https://tv.naver.com/v/35026877</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_131/K92xd_1681709438546BIkOI_PNG/1681709416706.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] HOSU(호수) - Already Spring(어느새 봄)]]></title>
-            <link>https://tv.naver.com/v/35026810</link>
-            <guid>https://tv.naver.com/v/35026810</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_165/9KfBF_1681709342148fd35E_PNG/1681709312369.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sucozy - Messenger]]></title>
-            <link>https://tv.naver.com/v/35026709</link>
-            <guid>https://tv.naver.com/v/35026709</guid>
-            <pubDate>Tue, 18 Apr 2023 03:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_44/Hh360_1681709182437WORxV_PNG/1681709152293.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
