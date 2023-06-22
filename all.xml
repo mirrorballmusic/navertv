@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 06:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 07:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - Bipolar Bourgeoisie Bop(양극성 부르주아지 밥) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37262463</link>
+            <guid>https://tv.naver.com/v/37262463</guid>
+            <pubDate>Thu, 22 Jun 2023 07:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_95/uYc0i_1687414499464QczVv_JPEG/1687414440592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Crackshot(크랙샷) - INFP (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37262329</link>
+            <guid>https://tv.naver.com/v/37262329</guid>
+            <pubDate>Thu, 22 Jun 2023 07:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_140/fikf8_1687414305194U7lYE_PNG/1687414285119.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] KwonMilk(권우유) - Being Beautiful For All(사람 사는 세상) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/37261694</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_246/8asRS_1681709829071rWwsC_JPEG/1681709826268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Red C - The Place(그 자리) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35027021</link>
-            <guid>https://tv.naver.com/v/35027021</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_249/1qe6Z_1681709622812g4iq9_PNG/1681709597298.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunset On The Bridge - Freedom Train (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35026991</link>
-            <guid>https://tv.naver.com/v/35026991</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_59/kzY30_1681709577414umXe3_PNG/1681709549336.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
