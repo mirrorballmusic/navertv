@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 06:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] KwonMilk(권우유) - Being Beautiful For All(사람 사는 세상)]]></title>
+            <link>https://tv.naver.com/v/37261694</link>
+            <guid>https://tv.naver.com/v/37261694</guid>
+            <pubDate>Thu, 22 Jun 2023 06:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_288/0ZXxi_1687413522085CaCET_PNG/1687413503363.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] oshii - Original]]></title>
             <link>https://tv.naver.com/v/37071660</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_59/kzY30_1681709577414umXe3_PNG/1681709549336.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Orangeindigo(오렌지인디고) - FOREVER]]></title>
-            <link>https://tv.naver.com/v/35026944</link>
-            <guid>https://tv.naver.com/v/35026944</guid>
-            <pubDate>Mon, 17 Apr 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_3/ZDCoH_1681709520553FX9PJ_PNG/1681709494082.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
