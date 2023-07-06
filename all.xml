@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 08:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] neeve - If only (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37748361</link>
+            <guid>https://tv.naver.com/v/37748361</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_220/wr4pQ_1688631681890ukPMM_PNG/1688631623126.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Song Haeun(송하은) - hedgehog(고슴도치) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37748140</link>
+            <guid>https://tv.naver.com/v/37748140</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_16/XTzgS_1688631423297eKEJx_PNG/1688631393513.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Ashmute(애쉬뮤트) - The place no longer exists(그곳은 더 이상 존재하지 않아) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37748172</link>
+            <guid>https://tv.naver.com/v/37748172</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_219/SHoW5_1688631503391uVUYO_JPEG/1688631501528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] LeeNa(이나현) - Tell me more(말해줘) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37748087</link>
+            <guid>https://tv.naver.com/v/37748087</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_114/p0lfM_1688631354801EtKAh_PNG/1688631287512.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] justjunsu(그냥준수) (of american beggar(미국거지)) - kind of lesson(일종의 레슨) (prod. 최용환) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37747991</link>
+            <guid>https://tv.naver.com/v/37747991</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_221/EKmL3_1688631257308gGgE7_PNG/1688631178774.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] dalm_eun(닮은) - Ready to Go (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/37747903</link>
@@ -14,6 +54,14 @@
             <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_113/9nsX4_1688631123381gUzj2_PNG/1688631097826.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Deogi408(덕이408) - Is it love?(이게 사랑인 걸까?) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/37747858</link>
+            <guid>https://tv.naver.com/v/37747858</guid>
+            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_256/Vepx6_1688631074309yPFI3_JPEG/1688630968892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] bandi(반디) - Prime time never happens again (네이버TV ─ 미러볼뮤직)]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 19 May 2023 12:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_216/Fm01S_1684496193165D6E4z_PNG/1684496166186.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lim Hoyeon(임호연) - Expansion (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35867109</link>
-            <guid>https://tv.naver.com/v/35867109</guid>
-            <pubDate>Fri, 12 May 2023 09:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_78/i6axE_1683879110817zU7gS_PNG/1683879088954.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Doorlesshouse(문없는집) - Alchemist (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35866856</link>
-            <guid>https://tv.naver.com/v/35866856</guid>
-            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_143/7tlO0_16838788384624H8qt_PNG/1683878820760.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] we hate jh - Go 4(풀악셀) (4K) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35866759</link>
-            <guid>https://tv.naver.com/v/35866759</guid>
-            <pubDate>Fri, 12 May 2023 09:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_136/Eo0Yh_1683878740479VWBhO_JPEG/1683878729574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Llwyd(루이드) - You Complete Me(채워줘) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35866626</link>
-            <guid>https://tv.naver.com/v/35866626</guid>
-            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_55/cYr7n_1683878580738MCVcj_PNG/1683878531458.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunhye(선혜) - brain circuitry(뇌의 회로) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35866539</link>
-            <guid>https://tv.naver.com/v/35866539</guid>
-            <pubDate>Fri, 12 May 2023 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_137/gNcHI_1683878479720konaP_PNG/1683878462150.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Far East Asian Tigers(극동아시아타이거즈) - look back(이제는) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/35610408</link>
-            <guid>https://tv.naver.com/v/35610408</guid>
-            <pubDate>Thu, 04 May 2023 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_235/3C1vK_1683196298831xFdrU_PNG/1683196203955.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
