@@ -4,9 +4,33 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 07:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] dalm_eun(닮은) - Ready to Go]]></title>
+            <link>https://tv.naver.com/v/37747903</link>
+            <guid>https://tv.naver.com/v/37747903</guid>
+            <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_113/9nsX4_1688631123381gUzj2_PNG/1688631097826.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] bandi(반디) - Prime time never happens again]]></title>
+            <link>https://tv.naver.com/v/37747568</link>
+            <guid>https://tv.naver.com/v/37747568</guid>
+            <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_37/Q5SLr_1688630683910mBpSS_PNG/1688630650493.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] My Aunt Mary(마이 앤트 메리) - Summer night(여름밤)]]></title>
+            <link>https://tv.naver.com/v/37747497</link>
+            <guid>https://tv.naver.com/v/37747497</guid>
+            <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_208/4ZnYL_1688630584467OFVdI_PNG/1688630555023.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Asian Boys, Crying(아시안 보이즈 크라잉) - Bipolar Bourgeoisie Bop(양극성 부르주아지 밥)]]></title>
             <link>https://tv.naver.com/v/37262463</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 May 2023 11:08:03 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_235/3C1vK_1683196298831xFdrU_PNG/1683196203955.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Flying Dog(플라잉독) - No Regrets(끝이라는 생각으로)]]></title>
-            <link>https://tv.naver.com/v/35608723</link>
-            <guid>https://tv.naver.com/v/35608723</guid>
-            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_153/dE9k7_1683192708620vSh21_PNG/1683192598910.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] JANG SO YOUNG(장소영) - Song of freedom(자유의 노래)]]></title>
-            <link>https://tv.naver.com/v/35608649</link>
-            <guid>https://tv.naver.com/v/35608649</guid>
-            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_136/ZmqRp_1683192572276uNj9q_PNG/1683192531834.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Shin kyoung woo(신경우) - Home(홈)]]></title>
-            <link>https://tv.naver.com/v/35608608</link>
-            <guid>https://tv.naver.com/v/35608608</guid>
-            <pubDate>Thu, 04 May 2023 10:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_75/QLpoa_1683192511424XY9vt_PNG/1683192482636.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
