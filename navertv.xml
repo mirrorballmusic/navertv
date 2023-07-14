@@ -4,9 +4,33 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] GaHhyun(가현) - Wave(일렁일렁)]]></title>
+            <link>https://tv.naver.com/v/38049158</link>
+            <guid>https://tv.naver.com/v/38049158</guid>
+            <pubDate>Fri, 14 Jul 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_169/Pnj0p_1689324375605HpoBu_PNG/1689324348082.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] hyangni(향니) - Fly Sky(하늘을 날아)]]></title>
+            <link>https://tv.naver.com/v/38049108</link>
+            <guid>https://tv.naver.com/v/38049108</guid>
+            <pubDate>Fri, 14 Jul 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_185/KDYWJ_1689324307876keh60_PNG/1689324204157.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Out Of Place(아웃 오브 플레이스) - Momo(모모)]]></title>
+            <link>https://tv.naver.com/v/38048999</link>
+            <guid>https://tv.naver.com/v/38048999</guid>
+            <pubDate>Fri, 14 Jul 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_245/2lNaL_1689324160676PG705_PNG/1689324101522.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] neeve - If only]]></title>
             <link>https://tv.naver.com/v/37748361</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_95/gRvzG_1686132232412yI4kg_PNG/1686132211630.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] HLIN(홀린) - Like a pale white butterfly(이 밤)]]></title>
-            <link>https://tv.naver.com/v/36743376</link>
-            <guid>https://tv.naver.com/v/36743376</guid>
-            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_164/EEQKe_1686132197478zxK1m_PNG/1686132149213.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] GHIK(교환일기) - Playback]]></title>
-            <link>https://tv.naver.com/v/36743345</link>
-            <guid>https://tv.naver.com/v/36743345</guid>
-            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_181/MG43t_1686132124128AjVWH_PNG/1686132106191.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PARK CHO WON(박초원) - You Call me love(내게 사랑이라 부르는)]]></title>
-            <link>https://tv.naver.com/v/36110124</link>
-            <guid>https://tv.naver.com/v/36110124</guid>
-            <pubDate>Fri, 19 May 2023 12:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_281/0Fo98_1684496326195DVj0B_PNG/1684496307101.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
