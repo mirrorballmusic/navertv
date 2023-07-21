@@ -4,9 +4,49 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 08:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 09:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Namul(나물) - Fish Rising Love Song]]></title>
+            <link>https://tv.naver.com/v/38287332</link>
+            <guid>https://tv.naver.com/v/38287332</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_19/eHrEo_1689929605973hn8O0_PNG/1689929581974.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] PILL JOO(안필주) - Baemeori-gil(배머리길)]]></title>
+            <link>https://tv.naver.com/v/38287297</link>
+            <guid>https://tv.naver.com/v/38287297</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_54/yrwoQ_1689929538600pIop3_JPEG/1689929505206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] SGO(사거리 그오빠) - Walk Today(산책)]]></title>
+            <link>https://tv.naver.com/v/38287160</link>
+            <guid>https://tv.naver.com/v/38287160</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_182/w53IL_16899293116310cSTv_PNG/1689929288897.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Seo Sang Wook(서상욱) - Grap the Rope, To the Top(밧줄을 잡고 정상으로)]]></title>
+            <link>https://tv.naver.com/v/38287122</link>
+            <guid>https://tv.naver.com/v/38287122</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_71/1CfGy_1689929258456XxxCz_PNG/1689929227088.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] OVerdrive Philosophy - if I could]]></title>
+            <link>https://tv.naver.com/v/38287036</link>
+            <guid>https://tv.naver.com/v/38287036</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_184/lqMOS_1689929132598Rii2L_JPEG/1689929074169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] GaHhyun(가현) - Wave(일렁일렁)]]></title>
             <link>https://tv.naver.com/v/38049158</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 09 Jun 2023 13:11:16 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_58/g3LhY_1686315274903LABW2_PNG/1686315258382.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] CRYING NUT(크라잉넛) - Night overtime(야근)]]></title>
-            <link>https://tv.naver.com/v/36743597</link>
-            <guid>https://tv.naver.com/v/36743597</guid>
-            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_104/vhK6p_1686132552588e7i2A_PNG/1686132536080.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Old Yearning(옛그리움) - Light and Salt(빛과 소금)]]></title>
-            <link>https://tv.naver.com/v/36743533</link>
-            <guid>https://tv.naver.com/v/36743533</guid>
-            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_228/gEtIq_1686132454809pcsf0_PNG/1686132385836.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Mitaverse(미타버스) - Fluttering(훨훨)]]></title>
-            <link>https://tv.naver.com/v/36743468</link>
-            <guid>https://tv.naver.com/v/36743468</guid>
-            <pubDate>Wed, 07 Jun 2023 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_248/WQd2b_1686132361806jGzF0_PNG/1686132341714.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Yojung(요정) - Anger issue(화가 나 있어)]]></title>
-            <link>https://tv.naver.com/v/36743435</link>
-            <guid>https://tv.naver.com/v/36743435</guid>
-            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_68/1gMDJ_1686132312586AscyG_JPEG/1686132296273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Yojung(요정) - Is that it?(너 그것밖에 안돼?)]]></title>
-            <link>https://tv.naver.com/v/36743392</link>
-            <guid>https://tv.naver.com/v/36743392</guid>
-            <pubDate>Wed, 07 Jun 2023 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_95/gRvzG_1686132232412yI4kg_PNG/1686132211630.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
