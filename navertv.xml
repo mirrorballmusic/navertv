@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 02:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 03:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_95/VdjYN_1690536741130TupAw_PNG/1690536725865.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Pepsi Lime Fam (P.L.F) - Another Day]]></title>
+            <link>https://tv.naver.com/v/38511379</link>
+            <guid>https://tv.naver.com/v/38511379</guid>
+            <pubDate>Sat, 29 Jul 2023 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_91/vWLVE_1690536704516rcl8T_PNG/1690536678559.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] PPS (print print shop) - Gyuam Cathedral(규암)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_171/JcKgU_1686908353561kbCE8_PNG/1686908334083.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Hosun(호선) - Breeze(고요)]]></title>
-            <link>https://tv.naver.com/v/37071620</link>
-            <guid>https://tv.naver.com/v/37071620</guid>
-            <pubDate>Fri, 16 Jun 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_73/9Z14W_1686908317311V0y4W_JPEG/1686908302973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
