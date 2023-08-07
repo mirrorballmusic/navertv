@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 02:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 03:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] BenchWeLeo(벤치위레오) - Raven (Odin's) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/38727947</link>
+            <guid>https://tv.naver.com/v/38727947</guid>
+            <pubDate>Mon, 07 Aug 2023 03:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[5:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_137/GQv0k_16911349643987AP64_PNG/1691134924391.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] DOSIJUNGJEON(도시정전) - Way(방법) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/38727904</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_37/Q5SLr_1688630683910mBpSS_PNG/1688630650493.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] My Aunt Mary(마이 앤트 메리) - RUN (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37747532</link>
-            <guid>https://tv.naver.com/v/37747532</guid>
-            <pubDate>Thu, 13 Jul 2023 09:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_7/xW0LV_16886306300024idlj_JPEG/1688630603709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
