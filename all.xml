@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Min Ju Hee(민주희) - My salvation is your kindness(날 살리는 건 너의 다정함) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/38973308</link>
+            <guid>https://tv.naver.com/v/38973308</guid>
+            <pubDate>Mon, 14 Aug 2023 03:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_235/sbeXY_1691746261980CdguH_PNG/1691746239440.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] heeseo(희서) - Quite(퍽) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/38973267</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_221/EKmL3_1688631257308gGgE7_PNG/1688631178774.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] dalm_eun(닮은) - Ready to Go (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37747903</link>
-            <guid>https://tv.naver.com/v/37747903</guid>
-            <pubDate>Thu, 06 Jul 2023 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_113/9nsX4_1688631123381gUzj2_PNG/1688631097826.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
