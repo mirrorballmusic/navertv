@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 02:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 03:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Old Yearning(옛그리움) - Come Back Home My Love (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/38973348</link>
+            <guid>https://tv.naver.com/v/38973348</guid>
+            <pubDate>Tue, 15 Aug 2023 03:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_200/Pkr26_1691746315547dGRzU_PNG/1691746281517.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Min Ju Hee(민주희) - My salvation is your kindness(날 살리는 건 너의 다정함) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/38973308</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_114/p0lfM_1688631354801EtKAh_PNG/1688631287512.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] justjunsu(그냥준수) (of american beggar(미국거지)) - kind of lesson(일종의 레슨) (prod. 최용환) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37747991</link>
-            <guid>https://tv.naver.com/v/37747991</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_221/EKmL3_1688631257308gGgE7_PNG/1688631178774.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
