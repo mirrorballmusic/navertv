@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 09:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 10:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Old Yearning(옛그리움) - Come Back Home My Love (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39209512</link>
+            <guid>https://tv.naver.com/v/39209512</guid>
+            <pubDate>Fri, 18 Aug 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_254/XcoA7_1692350374479vDbrV_PNG/1692350298079.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Kangmin(강민) - Relax(힘빼) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39209464</link>
+            <guid>https://tv.naver.com/v/39209464</guid>
+            <pubDate>Fri, 18 Aug 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_81/2cViA_1692350278967sOcXU_PNG/1692350251032.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] haan. & gangpaso(박한 & 강파소) - Hope Rooms(그 방) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39209420</link>
+            <guid>https://tv.naver.com/v/39209420</guid>
+            <pubDate>Fri, 18 Aug 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_66/UnrCS_1692350186135zb6j4_PNG/1692350163054.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Audrey No(오드리노) - Plant Me (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39209386</link>
+            <guid>https://tv.naver.com/v/39209386</guid>
+            <pubDate>Fri, 18 Aug 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_203/Uyn1g_1692350137789AjVt5_PNG/1692350120325.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Old Yearning(옛그리움) - Come Back Home My Love (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/38973348</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_245/2lNaL_1689324160676PG705_PNG/1689324101522.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] neeve - If only (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37748361</link>
-            <guid>https://tv.naver.com/v/37748361</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_220/wr4pQ_1688631681890ukPMM_PNG/1688631623126.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Song Haeun(송하은) - hedgehog(고슴도치) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37748140</link>
-            <guid>https://tv.naver.com/v/37748140</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_16/XTzgS_1688631423297eKEJx_PNG/1688631393513.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Ashmute(애쉬뮤트) - The place no longer exists(그곳은 더 이상 존재하지 않아) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37748172</link>
-            <guid>https://tv.naver.com/v/37748172</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_219/SHoW5_1688631503391uVUYO_JPEG/1688631501528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] LeeNa(이나현) - Tell me more(말해줘) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/37748087</link>
-            <guid>https://tv.naver.com/v/37748087</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_114/p0lfM_1688631354801EtKAh_PNG/1688631287512.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
