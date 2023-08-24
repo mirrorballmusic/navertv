@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 02:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] heeje(히제) - Word for love(수식어) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39404481</link>
+            <guid>https://tv.naver.com/v/39404481</guid>
+            <pubDate>Thu, 24 Aug 2023 03:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_180/kP0if_1692846134877xPxyw_PNG/1692846112436.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Yeonwoo(연우) - Happy Ending(해피엔딩) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39376040</link>
+            <guid>https://tv.naver.com/v/39376040</guid>
+            <pubDate>Thu, 24 Aug 2023 03:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_13/XHvA6_1692780460989mFsrO_PNG/1692780423927.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Purple Ocean(퍼플오션) - Fiction (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/39368268</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_54/yrwoQ_1689929538600pIop3_JPEG/1689929505206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] SGO(사거리 그오빠) - Walk Today(산책) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38287160</link>
-            <guid>https://tv.naver.com/v/38287160</guid>
-            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_182/w53IL_16899293116310cSTv_PNG/1689929288897.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Seo Sang Wook(서상욱) - Grap the Rope, To the Top(밧줄을 잡고 정상으로) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38287122</link>
-            <guid>https://tv.naver.com/v/38287122</guid>
-            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_71/1CfGy_1689929258456XxxCz_PNG/1689929227088.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
