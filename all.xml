@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 02:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 03:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Universe Mongae(우주멍게) - Boring Girls (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39464632</link>
+            <guid>https://tv.naver.com/v/39464632</guid>
+            <pubDate>Sun, 27 Aug 2023 03:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_168/iOljE_1692951833656E6iqO_PNG/1692951779949.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Shin hantae(신한태) - Suit yourself(니 맘대로해) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/39464551</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_227/Bn0rN_1690536602517mYh6M_PNG/1690536585519.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Namul(나물) - Fish Rising Love Song (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38287332</link>
-            <guid>https://tv.naver.com/v/38287332</guid>
-            <pubDate>Fri, 21 Jul 2023 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_19/eHrEo_1689929605973hn8O0_PNG/1689929581974.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
