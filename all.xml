@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 09:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 10:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Cosmic Comics - Contradiction (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39602701</link>
+            <guid>https://tv.naver.com/v/39602701</guid>
+            <pubDate>Tue, 29 Aug 2023 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_133/5r0f3_1693301347956Vwm9B_PNG/1693301291161.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] mongoo(몬구) - we dance the waves(우리는 파도의 춤) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39602655</link>
+            <guid>https://tv.naver.com/v/39602655</guid>
+            <pubDate>Tue, 29 Aug 2023 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_67/OWiDb_1693301277553Ld0kt_JPEG/1693301234632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Elliot(엘리엇) & KimDooHan(김두한) - Coldness (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/39538101</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_95/VdjYN_1690536741130TupAw_PNG/1690536725865.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Pepsi Lime Fam (P.L.F) - Another Day (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38511379</link>
-            <guid>https://tv.naver.com/v/38511379</guid>
-            <pubDate>Sat, 29 Jul 2023 03:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_91/vWLVE_1690536704516rcl8T_PNG/1690536678559.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] PPS (print print shop) - Gyuam Cathedral(규암) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38511350</link>
-            <guid>https://tv.naver.com/v/38511350</guid>
-            <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_295/7AtEi_1690536655836QOoOk_PNG/1690536627644.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
