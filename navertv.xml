@@ -4,9 +4,33 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 02:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 03:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Lee Jane(이제인) - I want to love everything I touch(손길 닿는 것마다 사랑하고 싶어)]]></title>
+            <link>https://tv.naver.com/v/39603005</link>
+            <guid>https://tv.naver.com/v/39603005</guid>
+            <pubDate>Wed, 30 Aug 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_217/PEuZZ_1693301836773KBv4A_PNG/1693301804500.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Seo Ja Yeong(서자영) - Closer]]></title>
+            <link>https://tv.naver.com/v/39602879</link>
+            <guid>https://tv.naver.com/v/39602879</guid>
+            <pubDate>Wed, 30 Aug 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_169/84Vk7_1693301668135AA5OW_PNG/1693301641398.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] SANSA(산사) - I(나)]]></title>
+            <link>https://tv.naver.com/v/39602839</link>
+            <guid>https://tv.naver.com/v/39602839</guid>
+            <pubDate>Wed, 30 Aug 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_179/flkvt_1693301594421xnKn0_JPEG/f5f6a74a-464e-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Cosmic Comics - Contradiction]]></title>
             <link>https://tv.naver.com/v/39602701</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_127/ncabd_1691133669020fhS5P_JPEG/1691133643297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Monday Feeling - Starlight]]></title>
-            <link>https://tv.naver.com/v/38511455</link>
-            <guid>https://tv.naver.com/v/38511455</guid>
-            <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_20/wXnuM_1690536843417HKMmN_PNG/1690536833123.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Huh Jee(허지) - Couch Potato]]></title>
-            <link>https://tv.naver.com/v/38511441</link>
-            <guid>https://tv.naver.com/v/38511441</guid>
-            <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_202/5lM5H_1690536797248tLUBG_PNG/1690536770529.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Marin(마린) - Cherry]]></title>
-            <link>https://tv.naver.com/v/38511406</link>
-            <guid>https://tv.naver.com/v/38511406</guid>
-            <pubDate>Fri, 28 Jul 2023 10:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_95/VdjYN_1690536741130TupAw_PNG/1690536725865.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
