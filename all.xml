@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 09:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 29 Aug 2023 10:09:04 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_67/OWiDb_1693301277553Ld0kt_JPEG/1693301234632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Traypeanut(쟁반땅콩) - Room(방) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39602562</link>
+            <guid>https://tv.naver.com/v/39602562</guid>
+            <pubDate>Wed, 30 Aug 2023 09:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_141/1rqgp_16933011133014SEYC_PNG/1693301060911.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Elliot(엘리엇) & KimDooHan(김두한) - Coldness (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_134/94VI2_1691133753367a1W8V_PNG/1691133732292.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] fishingirls(피싱걸스) - Destruction King(파괴왕) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38727107</link>
-            <guid>https://tv.naver.com/v/38727107</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_127/ncabd_1691133669020fhS5P_JPEG/1691133643297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
