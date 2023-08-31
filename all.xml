@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 08:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 09:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 29 Aug 2023 10:09:04 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_67/OWiDb_1693301277553Ld0kt_JPEG/1693301234632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Kim Hwajong(김화종) - Mystery Circus (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/39602598</link>
+            <guid>https://tv.naver.com/v/39602598</guid>
+            <pubDate>Thu, 31 Aug 2023 09:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_1/Yg4Ld_1693301180137kSAph_PNG/1693301145781.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MV] Traypeanut(쟁반땅콩) - Room(방) (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_184/RTFPF_1691134401679ibhWs_PNG/1691134358462.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Gate Flowers(게이트 플라워즈) - ALL IN (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38727179</link>
-            <guid>https://tv.naver.com/v/38727179</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_134/94VI2_1691133753367a1W8V_PNG/1691133732292.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
