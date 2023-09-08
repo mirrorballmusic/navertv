@@ -4,16 +4,40 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 08:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[MV] Kyung woo hyun(경우현) - Much better]]></title>
+            <link>https://tv.naver.com/v/40028304</link>
+            <guid>https://tv.naver.com/v/40028304</guid>
+            <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_222/KI0FA_1694163659518ndsWj_PNG/1694163643024.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] BenchWeLeo(벤치위레오) - Summer Rain]]></title>
+            <link>https://tv.naver.com/v/40028208</link>
+            <guid>https://tv.naver.com/v/40028208</guid>
+            <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_166/AQZwy_1694163547684mVI3f_PNG/1694163505575.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Xeuda(쓰다) - Blue Night(푸른 밤)]]></title>
+            <link>https://tv.naver.com/v/40028154</link>
+            <guid>https://tv.naver.com/v/40028154</guid>
+            <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_16/eXJ3X_1694163469188gJRmq_JPEG/1694163436026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MV] Lee Jane(이제인) - I want to love everything I touch(손길 닿는 것마다 사랑하고 싶어)]]></title>
-            <link>https://tv.naver.com/v/39603005</link>
-            <guid>https://tv.naver.com/v/39603005</guid>
-            <pubDate>Wed, 30 Aug 2023 03:08:46 GMT</pubDate>
+            <link>https://tv.naver.com/v/40027946</link>
+            <guid>https://tv.naver.com/v/40027946</guid>
+            <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_217/PEuZZ_1693301836773KBv4A_PNG/1693301804500.png?type=f194_109_blend" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_288/pqwY8_1694163194965ydfqW_JPEG/1694163157513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] Seo Ja Yeong(서자영) - Closer]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_283/zVQdy_1691134767162DTGbP_PNG/1691134740164.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Radio Paradise(라디오 파라다이스) - Say Hello(안녕을 물어요)]]></title>
-            <link>https://tv.naver.com/v/38727809</link>
-            <guid>https://tv.naver.com/v/38727809</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_112/AFtVT_1691134727287wIfME_JPEG/1691134580906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] hosun(호선) - Redline]]></title>
-            <link>https://tv.naver.com/v/38727716</link>
-            <guid>https://tv.naver.com/v/38727716</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_188/qiR29_1691134549499VCPU4_PNG/1691134525717.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 8rosh peridot(8호실 peridot) - she]]></title>
-            <link>https://tv.naver.com/v/38727642</link>
-            <guid>https://tv.naver.com/v/38727642</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_184/RTFPF_1691134401679ibhWs_PNG/1691134358462.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
