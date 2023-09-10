@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 08:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 09:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Shin Jikseon(신직선) - Don't Leave Me Alone(혼자 두지 마)]]></title>
+            <link>https://tv.naver.com/v/40028453</link>
+            <guid>https://tv.naver.com/v/40028453</guid>
+            <pubDate>Sun, 10 Sep 2023 09:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_93/HRczk_169416380758540xuk_PNG/1694163770897.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Kyung woo hyun(경우현) - Much better]]></title>
             <link>https://tv.naver.com/v/40028304</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_184/klLVw_1691134888981hDajw_PNG/1691134831586.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] ClaD(클래디) - Memories rain(기억은 비처럼)]]></title>
-            <link>https://tv.naver.com/v/38727833</link>
-            <guid>https://tv.naver.com/v/38727833</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_283/zVQdy_1691134767162DTGbP_PNG/1691134740164.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
