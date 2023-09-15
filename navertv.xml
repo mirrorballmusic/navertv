@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 00:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:43:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] OWNDO(온도) - The Green(초록들)]]></title>
+            <link>https://tv.naver.com/v/40290895</link>
+            <guid>https://tv.naver.com/v/40290895</guid>
+            <pubDate>Fri, 15 Sep 2023 01:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_249/sOoXK_16947410728853PvkX_PNG/1694741060287.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Oong - How]]></title>
+            <link>https://tv.naver.com/v/40290871</link>
+            <guid>https://tv.naver.com/v/40290871</guid>
+            <pubDate>Fri, 15 Sep 2023 01:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_166/zQoiD_1694741037793e2MVS_PNG/1694740988121.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Shin Jikseon(신직선) - Don't Leave Me Alone(혼자 두지 마)]]></title>
             <link>https://tv.naver.com/v/40028453</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 10:08:44 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_89/hl9Oo_1691746163079JmQic_PNG/1691746125208.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] BenchWeLeo(벤치위레오) - Raven (Odin's)]]></title>
-            <link>https://tv.naver.com/v/38727947</link>
-            <guid>https://tv.naver.com/v/38727947</guid>
-            <pubDate>Mon, 07 Aug 2023 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[5:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_137/GQv0k_16911349643987AP64_PNG/1691134924391.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] DOSIJUNGJEON(도시정전) - Way(방법)]]></title>
-            <link>https://tv.naver.com/v/38727904</link>
-            <guid>https://tv.naver.com/v/38727904</guid>
-            <pubDate>Fri, 04 Aug 2023 08:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_184/klLVw_1691134888981hDajw_PNG/1691134831586.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
