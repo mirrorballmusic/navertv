@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Soffee - I'm a mess (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/40423001</link>
+            <guid>https://tv.naver.com/v/40423001</guid>
+            <pubDate>Tue, 19 Sep 2023 03:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_7/QFyQR_1695044083231jwr4u_JPEG/1695044033907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] OWNDO(온도) - The Green(초록들) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/40290895</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 03:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_200/Pkr26_1691746315547dGRzU_PNG/1691746281517.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Min Ju Hee(민주희) - My salvation is your kindness(날 살리는 건 너의 다정함) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/38973308</link>
-            <guid>https://tv.naver.com/v/38973308</guid>
-            <pubDate>Mon, 14 Aug 2023 03:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_235/sbeXY_1691746261980CdguH_PNG/1691746239440.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
