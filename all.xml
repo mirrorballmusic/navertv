@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 20 Sep 2023 03:09:19 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_21/e1Rj6_1695044903933dozUU_JPEG/1695044766452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Oliv(올립) - Happiness Is Near(행복은 가까이에) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/40423141</link>
+            <guid>https://tv.naver.com/v/40423141</guid>
+            <pubDate>Thu, 21 Sep 2023 03:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_52/KNbMQ_1695044233493t4qIQ_JPEG/1695044207688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] Soffee - I'm a mess (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 06:10:35 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_153/KhhjY_1692770488474libRX_PNG/1692770472016.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kangmin(강민) - Relax(힘빼) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/39209464</link>
-            <guid>https://tv.naver.com/v/39209464</guid>
-            <pubDate>Fri, 18 Aug 2023 10:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_81/2cViA_1692350278967sOcXU_PNG/1692350251032.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
