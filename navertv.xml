@@ -4,7 +4,7 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 02:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 03:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 22 Sep 2023 01:42:35 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_261/OBw5q_1695346597231VKt4a_JPEG/1695346573753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] KIM JUNG WOO(김정우 (TOXIC)) - JOKER]]></title>
+            <link>https://tv.naver.com/v/40579866</link>
+            <guid>https://tv.naver.com/v/40579866</guid>
+            <pubDate>Sat, 23 Sep 2023 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_247/Gr8kK_16953137786009zu8z_JPEG/1695313741727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] COTTON STICK (코튼스틱) - TAKE ME HOME]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 07:08:19 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_43/gHNbQ_1692770839870z8uLW_PNG/1692770792729.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] haan. & gangpaso(박한 & 강파소) - Hope Rooms(그 방)]]></title>
-            <link>https://tv.naver.com/v/39367566</link>
-            <guid>https://tv.naver.com/v/39367566</guid>
-            <pubDate>Wed, 23 Aug 2023 06:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_245/xsYB8_16927707760612zeJS_JPEG/1692770688661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
