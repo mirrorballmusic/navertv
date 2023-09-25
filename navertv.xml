@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] SOFI - Fade Away(사라진 것들)]]></title>
+            <link>https://tv.naver.com/v/40609498</link>
+            <guid>https://tv.naver.com/v/40609498</guid>
+            <pubDate>Mon, 25 Sep 2023 03:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_190/UksIz_1695377477125nNJzx_JPEG/1695377432720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[TEASER] Shin Yujin(신유진) - Silk(비단)]]></title>
             <link>https://tv.naver.com/v/40596173</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 07:08:19 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_95/R3bZj_1692771539018yB9fF_JPEG/1692771522043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Minsung(민성) - Pain in Gold]]></title>
-            <link>https://tv.naver.com/v/39367624</link>
-            <guid>https://tv.naver.com/v/39367624</guid>
-            <pubDate>Wed, 23 Aug 2023 07:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_43/gHNbQ_1692770839870z8uLW_PNG/1692770792729.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
