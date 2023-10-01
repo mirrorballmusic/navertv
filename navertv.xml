@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 03:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Yang Jain(양자인) - You've Changed(참 많이 변했더라) (4K)]]></title>
+            <link>https://tv.naver.com/v/40757096</link>
+            <guid>https://tv.naver.com/v/40757096</guid>
+            <pubDate>Sun, 01 Oct 2023 03:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_36/jWj4r_1695736576557gdelF_JPEG/1695736536748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] chosunblues(조선블루스) - lost the love(사랑을 잃었네) (with Kim Su in(김수인))]]></title>
             <link>https://tv.naver.com/v/40707409</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 03:08:38 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230824_180/kP0if_1692846134877xPxyw_PNG/1692846112436.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Yeonwoo(연우) - Happy Ending(해피엔딩)]]></title>
-            <link>https://tv.naver.com/v/39376040</link>
-            <guid>https://tv.naver.com/v/39376040</guid>
-            <pubDate>Thu, 24 Aug 2023 03:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_13/XHvA6_1692780460989mFsrO_PNG/1692780423927.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
