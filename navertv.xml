@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 08:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 09:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Official Audio] Vian(비안) - I Let You Go(널 떠나보낸다) (feat. Kim Hoyeon(김호연))]]></title>
+            <link>https://tv.naver.com/v/40757147</link>
+            <guid>https://tv.naver.com/v/40757147</guid>
+            <pubDate>Wed, 04 Oct 2023 09:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_101/veuVH_1695736638596IdhQs_JPEG/1695736604373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Yang Jain(양자인) - You've Changed(참 많이 변했더라) (4K)]]></title>
             <link>https://tv.naver.com/v/40757096</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Aug 2023 09:08:02 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_86/EA5sr_1692951759645XHz6O_PNG/1692951719603.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] heeje(히제) - Word for love(수식어)]]></title>
-            <link>https://tv.naver.com/v/39404481</link>
-            <guid>https://tv.naver.com/v/39404481</guid>
-            <pubDate>Thu, 24 Aug 2023 03:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_180/kP0if_1692846134877xPxyw_PNG/1692846112436.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
