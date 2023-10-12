@@ -4,9 +4,25 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 02:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 03:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] CHUNGYOILE(청요일) - Forest Bath(산림욕)]]></title>
+            <link>https://tv.naver.com/v/41234358</link>
+            <guid>https://tv.naver.com/v/41234358</guid>
+            <pubDate>Thu, 12 Oct 2023 03:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_227/cGwnn_1697009092098W2FkS_JPEG/1697008965988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Jung hyun jin(정현진) - EMT (empty)]]></title>
+            <link>https://tv.naver.com/v/41234133</link>
+            <guid>https://tv.naver.com/v/41234133</guid>
+            <pubDate>Thu, 12 Oct 2023 03:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_22/9Mkx1_1697008844291l9sQj_JPEG/1697008751766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Official Audio] Vian(비안) - I Let You Go(널 떠나보낸다) (feat. Kim Hoyeon(김호연))]]></title>
             <link>https://tv.naver.com/v/40757147</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 28 Aug 2023 04:10:21 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230828_144/OZN4q_1693191738541mHLrn_PNG/1693191714409.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Universe Mongae(우주멍게) - Boring Girls]]></title>
-            <link>https://tv.naver.com/v/39464632</link>
-            <guid>https://tv.naver.com/v/39464632</guid>
-            <pubDate>Sun, 27 Aug 2023 03:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_168/iOljE_1692951833656E6iqO_PNG/1692951779949.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Shin hantae(신한태) - Suit yourself(니 맘대로해)]]></title>
-            <link>https://tv.naver.com/v/39464551</link>
-            <guid>https://tv.naver.com/v/39464551</guid>
-            <pubDate>Fri, 25 Aug 2023 09:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_86/EA5sr_1692951759645XHz6O_PNG/1692951719603.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
