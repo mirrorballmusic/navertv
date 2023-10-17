@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 01:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 02:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] OmO(오모) - First Love(하츠코이) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/41421898</link>
+            <guid>https://tv.naver.com/v/41421898</guid>
+            <pubDate>Tue, 17 Oct 2023 02:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_8/pAWqk_16974169981160STlI_JPEG/1697416943810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] MGFF(맥거핀) - Ping(핑) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/41337375</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 09:08:22 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_1/Yg4Ld_1693301180137kSAph_PNG/1693301145781.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Traypeanut(쟁반땅콩) - Room(방) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/39602562</link>
-            <guid>https://tv.naver.com/v/39602562</guid>
-            <pubDate>Mon, 16 Oct 2023 09:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_141/1rqgp_16933011133014SEYC_PNG/1693301060911.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
