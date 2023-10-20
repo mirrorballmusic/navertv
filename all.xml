@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] CYG(최영길) - LOVE (tears) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/41647530</link>
+            <guid>https://tv.naver.com/v/41647530</guid>
+            <pubDate>Fri, 20 Oct 2023 07:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_63/xwPOf_16977829028325W2py_JPEG/1697781665267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] suyoon(수윤) - Even So(그렇더라도) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/41499544</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_16/eXJ3X_1694163469188gJRmq_JPEG/1694163436026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lee Jane(이제인) - I want to love everything I touch(손길 닿는 것마다 사랑하고 싶어) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/40027946</link>
-            <guid>https://tv.naver.com/v/40027946</guid>
-            <pubDate>Fri, 08 Sep 2023 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_288/pqwY8_1694163194965ydfqW_JPEG/1694163157513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
