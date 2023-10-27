@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 00:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 01:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] T.A.-COPY(타카피) - alive(살아야겠다) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/41953822</link>
+            <guid>https://tv.naver.com/v/41953822</guid>
+            <pubDate>Fri, 27 Oct 2023 01:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_50/MLf1p_1698367891778znXSU_JPEG/1698367837234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Lyric Video] baek-jun oh(오백준) - Imagination(상상) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/41953790</link>
+            <guid>https://tv.naver.com/v/41953790</guid>
+            <pubDate>Fri, 27 Oct 2023 01:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_128/t2ycX_1698367807265p5sJz_JPEG/1698367774713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Yohrn(욘)  - The Great Unknown(미지의 세계) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/41953767</link>
+            <guid>https://tv.naver.com/v/41953767</guid>
+            <pubDate>Fri, 27 Oct 2023 01:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[5:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_106/qYMhe_1698367733884nYpHn_JPEG/1698367654182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Holocity(홀로시티) - Edge of memory(꿈의 기억) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/41754498</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 01:43:11 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_166/zQoiD_1694741037793e2MVS_PNG/1694740988121.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] JSB - There is no right answer in the world (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/40290821</link>
-            <guid>https://tv.naver.com/v/40290821</guid>
-            <pubDate>Mon, 18 Sep 2023 03:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_165/sdZND_1694740953653G5KGu_PNG/1694740926065.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] yuni(유니) - The summer(그 여름) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/40290794</link>
-            <guid>https://tv.naver.com/v/40290794</guid>
-            <pubDate>Mon, 18 Sep 2023 03:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_41/CZweO_1694740906680Idf8g_PNG/1694740861810.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Shin Jikseon(신직선) - Don't Leave Me Alone(혼자 두지 마) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/40028453</link>
-            <guid>https://tv.naver.com/v/40028453</guid>
-            <pubDate>Sun, 10 Sep 2023 09:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_93/HRczk_169416380758540xuk_PNG/1694163770897.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
