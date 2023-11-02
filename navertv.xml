@@ -4,9 +4,57 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 08:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 09:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Malibu - Shut up and Feel it]]></title>
+            <link>https://tv.naver.com/v/42243540</link>
+            <guid>https://tv.naver.com/v/42243540</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_229/bOm2Y_1698915944123qcFD5_JPEG/1698915820208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Yohrn(욘) - A Death of Another(타인의 죽음)]]></title>
+            <link>https://tv.naver.com/v/42243408</link>
+            <guid>https://tv.naver.com/v/42243408</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_124/Fbxcy_16989158021306W42E_JPEG/1698915757547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] moonflower -  Infinite Reason]]></title>
+            <link>https://tv.naver.com/v/42243333</link>
+            <guid>https://tv.naver.com/v/42243333</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_144/KiJUQ_1698915736128Fq6Vb_JPEG/1698915685815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] WOOJEEWON(우지원) - I said I love you(사랑한다 말했지)]]></title>
+            <link>https://tv.naver.com/v/42243254</link>
+            <guid>https://tv.naver.com/v/42243254</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_2/sK7CB_1698915664315oB1Dm_JPEG/1698915628456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Soohyun April Jang(장수현) - Both sides(양면)]]></title>
+            <link>https://tv.naver.com/v/42243187</link>
+            <guid>https://tv.naver.com/v/42243187</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_214/i0MQm_1698915598974Pvabf_JPEG/1698915555407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] HAINA MAIKA PUANA(다시 한번 말하자면) - Soliloquy1(혼잣말1)]]></title>
+            <link>https://tv.naver.com/v/42243100</link>
+            <guid>https://tv.naver.com/v/42243100</guid>
+            <pubDate>Thu, 02 Nov 2023 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_261/Y7LF1_1698915511889q814a_JPEG/1698915510062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Official Audio] The Dailee(더 데일리) - Falling for you now(내 영혼이 따뜻했던 날들)]]></title>
             <link>https://tv.naver.com/v/41953848</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 01:42:35 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_261/OBw5q_1695346597231VKt4a_JPEG/1695346573753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] KIM JUNG WOO(김정우 (TOXIC)) - JOKER]]></title>
-            <link>https://tv.naver.com/v/40579866</link>
-            <guid>https://tv.naver.com/v/40579866</guid>
-            <pubDate>Sat, 23 Sep 2023 03:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_247/Gr8kK_16953137786009zu8z_JPEG/1695313741727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] COTTON STICK (코튼스틱) - TAKE ME HOME]]></title>
-            <link>https://tv.naver.com/v/40423735</link>
-            <guid>https://tv.naver.com/v/40423735</guid>
-            <pubDate>Wed, 20 Sep 2023 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_219/25WyS_169504492784606ith_JPEG/1695044698164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Rolling Quartz(롤링쿼츠) - Fearless]]></title>
-            <link>https://tv.naver.com/v/40423723</link>
-            <guid>https://tv.naver.com/v/40423723</guid>
-            <pubDate>Wed, 20 Sep 2023 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_21/e1Rj6_1695044903933dozUU_JPEG/1695044766452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Oliv(올립) - Happiness Is Near(행복은 가까이에)]]></title>
-            <link>https://tv.naver.com/v/40423141</link>
-            <guid>https://tv.naver.com/v/40423141</guid>
-            <pubDate>Thu, 21 Sep 2023 03:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_52/KNbMQ_1695044233493t4qIQ_JPEG/1695044207688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Soffee - I'm a mess]]></title>
-            <link>https://tv.naver.com/v/40423001</link>
-            <guid>https://tv.naver.com/v/40423001</guid>
-            <pubDate>Tue, 19 Sep 2023 03:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_7/QFyQR_1695044083231jwr4u_JPEG/1695044033907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] OWNDO(온도) - The Green(초록들)]]></title>
-            <link>https://tv.naver.com/v/40290895</link>
-            <guid>https://tv.naver.com/v/40290895</guid>
-            <pubDate>Fri, 15 Sep 2023 01:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_249/sOoXK_16947410728853PvkX_PNG/1694741060287.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
