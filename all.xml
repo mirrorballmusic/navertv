@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 09:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 10:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Band45 - Leaning On That Star(저 별에 기대어) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43003472</link>
+            <guid>https://tv.naver.com/v/43003472</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_41/dJszT_1700214570960L4J0t_JPEG/1700214539876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Choi hyebin(최혜빈) - WE(우리) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43003120</link>
+            <guid>https://tv.naver.com/v/43003120</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_7/t20D8_1700214088697Tatui_JPEG/1700213926397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 2 Day Old Sneakers(투 데이 올드 스니커즈) - Cherokee (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43002978</link>
+            <guid>https://tv.naver.com/v/43002978</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_230/ckUl5_1700213900763dy7pa_JPEG/1700213868624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Sunset On The Bridge - FHLD (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43002934</link>
+            <guid>https://tv.naver.com/v/43002934</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_159/ukKVc_1700213841659vCP5N_JPEG/1700213809512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Seojuyeonband(서주연밴드) - After All(그래서 널 부르네) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43002918</link>
+            <guid>https://tv.naver.com/v/43002918</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_286/Lycxm_1700213819929nTXMd_JPEG/1700213731413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Heongoo Kang(강헌구) - City Driver (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43002831</link>
+            <guid>https://tv.naver.com/v/43002831</guid>
+            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_30/DLuM1_170021370249644PQO_JPEG/1700213565938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] WOOJEEWON(우지원) - B L U E(블루를 한꺼번에 삼키는 느낌) (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/42558866</link>
@@ -198,54 +246,6 @@
             <pubDate>Sun, 22 Oct 2023 03:09:01 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_81/b2b6S_1697783078355W9lIP_JPEG/1697782941919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] CYG(최영길) - LOVE (tears) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41647530</link>
-            <guid>https://tv.naver.com/v/41647530</guid>
-            <pubDate>Fri, 20 Oct 2023 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_63/xwPOf_16977829028325W2py_JPEG/1697781665267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] suyoon(수윤) - Even So(그렇더라도) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41499544</link>
-            <guid>https://tv.naver.com/v/41499544</guid>
-            <pubDate>Thu, 19 Oct 2023 03:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_63/6LwhF_1697534498937CJbRs_JPEG/1697534359126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Llwyd(루이드) - Gecko(도마뱀) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41477162</link>
-            <guid>https://tv.naver.com/v/41477162</guid>
-            <pubDate>Thu, 19 Oct 2023 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_28/ObRLB_1697509845295F1xHd_JPEG/1697509633443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] sucozy - Don't Look Back! But.. (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41476952</link>
-            <guid>https://tv.naver.com/v/41476952</guid>
-            <pubDate>Thu, 19 Oct 2023 03:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_119/LEokj_1697509585074NnvBB_JPEG/1697509528443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] The Goose! - Deviation(일탈) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41476863</link>
-            <guid>https://tv.naver.com/v/41476863</guid>
-            <pubDate>Thu, 19 Oct 2023 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_142/7zQnJ_1697509491334t9gQ1_JPEG/1697509384351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] dalm_eun(닮은) - Tulipa (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/41476642</link>
-            <guid>https://tv.naver.com/v/41476642</guid>
-            <pubDate>Wed, 18 Oct 2023 03:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_71/MNCjK_16975092600032yQLK_JPEG/1697509061785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
