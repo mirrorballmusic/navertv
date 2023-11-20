@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 00:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 01:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Ye Ram(예람) - I Go the Other Way(나는 반대로 가네)]]></title>
+            <link>https://tv.naver.com/v/43087363</link>
+            <guid>https://tv.naver.com/v/43087363</guid>
+            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_173/AsNKF_17004422501184kp7i_JPEG/1700442165156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Lee Earth(이지구) - Mouth(입)]]></title>
+            <link>https://tv.naver.com/v/43087321</link>
+            <guid>https://tv.naver.com/v/43087321</guid>
+            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_98/XtMRY_1700442135992lgYue_JPEG/1700442085296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Yohrn(욘) - Pale Blue Dot]]></title>
+            <link>https://tv.naver.com/v/43087271</link>
+            <guid>https://tv.naver.com/v/43087271</guid>
+            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_130/rcrau_17004420513623nbar_JPEG/1700442012065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] The Black Underground - Into The Silence]]></title>
+            <link>https://tv.naver.com/v/43087236</link>
+            <guid>https://tv.naver.com/v/43087236</guid>
+            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_268/iSL7Q_1700441972475d7rzB_JPEG/1700441905660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Band45 - Leaning On That Star(저 별에 기대어)]]></title>
             <link>https://tv.naver.com/v/43003472</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 01:42:06 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_128/t2ycX_1698367807265p5sJz_JPEG/1698367774713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Yohrn(욘)  - The Great Unknown(미지의 세계)]]></title>
-            <link>https://tv.naver.com/v/41953767</link>
-            <guid>https://tv.naver.com/v/41953767</guid>
-            <pubDate>Fri, 27 Oct 2023 01:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[5:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_106/qYMhe_1698367733884nYpHn_JPEG/1698367654182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Holocity(홀로시티) - Edge of memory(꿈의 기억)]]></title>
-            <link>https://tv.naver.com/v/41754498</link>
-            <guid>https://tv.naver.com/v/41754498</guid>
-            <pubDate>Mon, 23 Oct 2023 09:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_42/NeNDY_1698045642633mJYkA_JPEG/1698045588247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Barshy(바쉬) - Blossom]]></title>
-            <link>https://tv.naver.com/v/41754427</link>
-            <guid>https://tv.naver.com/v/41754427</guid>
-            <pubDate>Mon, 23 Oct 2023 08:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_14/5AD1W_1698045556950QyB1D_JPEG/1698045524982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Shin Yujin(신유진) - Deep in the sea(청)]]></title>
-            <link>https://tv.naver.com/v/41647651</link>
-            <guid>https://tv.naver.com/v/41647651</guid>
-            <pubDate>Sun, 22 Oct 2023 03:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_81/b2b6S_1697783078355W9lIP_JPEG/1697782941919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
