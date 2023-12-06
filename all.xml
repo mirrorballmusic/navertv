@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 08:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 09:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
             <content:encoded><![CDATA[5:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_160/nzbGa_1701848897613p4Yvg_JPEG/1701848869983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] zemean(신지민) - Moonflower (feat. HYO RAM) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/43925012</link>
+            <guid>https://tv.naver.com/v/43925012</guid>
+            <pubDate>Wed, 06 Dec 2023 09:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_162/woYfZ_1701848791184mgH6L_JPEG/1701848746322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] baek-jun oh(오백준) - Drawing (네이버TV ─ 미러볼뮤직)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_159/ukKVc_1700213841659vCP5N_JPEG/1700213809512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Seojuyeonband(서주연밴드) - After All(그래서 널 부르네) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43002918</link>
-            <guid>https://tv.naver.com/v/43002918</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_286/Lycxm_1700213819929nTXMd_JPEG/1700213731413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
