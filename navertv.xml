@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] VIZO(비조) - Butterfly Wave(설레인 파도)]]></title>
+            <link>https://tv.naver.com/v/43925172</link>
+            <guid>https://tv.naver.com/v/43925172</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_160/nzbGa_1701848897613p4Yvg_JPEG/1701848869983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] baek-jun oh(오백준) - Drawing]]></title>
+            <link>https://tv.naver.com/v/43924943</link>
+            <guid>https://tv.naver.com/v/43924943</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_202/lPXAn_1701848721440PKyIi_JPEG/1701848700980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] seasun(시선) - Whisper (feat. Soon)(속삭임 (feat. 이제))]]></title>
+            <link>https://tv.naver.com/v/43924574</link>
+            <guid>https://tv.naver.com/v/43924574</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_295/uwncQ_1701848439387wHE7i_JPEG/1701848379108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Hanlim(한림) - lukewarm(적당하게)]]></title>
+            <link>https://tv.naver.com/v/43924189</link>
+            <guid>https://tv.naver.com/v/43924189</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_183/EfILJ_1701848137036qYWNm_JPEG/1701848097693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] Binn(빈이) - The Door Opens On The Right(내리는 문은 오른쪽에서 열린다)]]></title>
             <link>https://tv.naver.com/v/43922010</link>
@@ -22,6 +54,22 @@
             <pubDate>Wed, 06 Dec 2023 07:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_107/dN69W_1701846242232c606R_JPEG/1701846219035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] we hate jh - Non-Swimmer(물결)]]></title>
+            <link>https://tv.naver.com/v/43921898</link>
+            <guid>https://tv.naver.com/v/43921898</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_275/q9kNe_1701846216196856oW_JPEG/1701846167227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] minjo - 0826]]></title>
+            <link>https://tv.naver.com/v/43921802</link>
+            <guid>https://tv.naver.com/v/43921802</guid>
+            <pubDate>Wed, 06 Dec 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_65/FBCUO_1701846137933sdAs6_JPEG/1701846107582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] 10minago X Lee Hyoung-jin(10분전X이형진) - Missed Call(부재중)]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[4:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_286/Lycxm_1700213819929nTXMd_JPEG/1700213731413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Heongoo Kang(강헌구) - City Driver]]></title>
-            <link>https://tv.naver.com/v/43002831</link>
-            <guid>https://tv.naver.com/v/43002831</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_30/DLuM1_170021370249644PQO_JPEG/1700213565938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] WOOJEEWON(우지원) - B L U E(블루를 한꺼번에 삼키는 느낌)]]></title>
-            <link>https://tv.naver.com/v/42558866</link>
-            <guid>https://tv.naver.com/v/42558866</guid>
-            <pubDate>Thu, 09 Nov 2023 09:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_259/finw9_169949324033639xdF_JPEG/1699493204147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 8rosh peridot(8호실 peridot) - Danceable]]></title>
-            <link>https://tv.naver.com/v/42558800</link>
-            <guid>https://tv.naver.com/v/42558800</guid>
-            <pubDate>Thu, 09 Nov 2023 05:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_151/56jnN_1699493157531Rtp1s_JPEG/1699493075043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] KONTRAJELLY(콘트라젤리) - ALLERGY(알레르기)]]></title>
-            <link>https://tv.naver.com/v/42558706</link>
-            <guid>https://tv.naver.com/v/42558706</guid>
-            <pubDate>Thu, 09 Nov 2023 01:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_273/45Ws9_1699493034378XxDzT_JPEG/1699492863512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kang Yes:ome(강예섬) - What a Summer(여름이었다)]]></title>
-            <link>https://tv.naver.com/v/42558347</link>
-            <guid>https://tv.naver.com/v/42558347</guid>
-            <pubDate>Thu, 09 Nov 2023 01:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_110/eBgVj_1699492473691HzFju_JPEG/1699492425994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Kangpyo(강표) - The Autumn(가을)]]></title>
-            <link>https://tv.naver.com/v/42558311</link>
-            <guid>https://tv.naver.com/v/42558311</guid>
-            <pubDate>Thu, 09 Nov 2023 01:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_141/tzI0h_1699492395390lpaDj_JPEG/1699492321569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
