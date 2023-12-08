@@ -4,9 +4,41 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] DAN(단) - Dear H (with. Jeong Yoon)(H에게 (with. 정윤))]]></title>
+            <link>https://tv.naver.com/v/44034380</link>
+            <guid>https://tv.naver.com/v/44034380</guid>
+            <pubDate>Fri, 08 Dec 2023 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_42/JLGn0_1702019963618xuqtP_JPEG/1702019898881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] YERIM(예림) - Fantasy(판타지)]]></title>
+            <link>https://tv.naver.com/v/44034269</link>
+            <guid>https://tv.naver.com/v/44034269</guid>
+            <pubDate>Fri, 08 Dec 2023 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_126/gTLes_1702019875240gFrpX_JPEG/1702019784852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] zemean(신지민) - Moonflower (feat. HYO RAM)]]></title>
+            <link>https://tv.naver.com/v/44034137</link>
+            <guid>https://tv.naver.com/v/44034137</guid>
+            <pubDate>Fri, 08 Dec 2023 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_84/CkvW6_1702019757475x5cPy_JPEG/1702019705328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] baek-jun oh(오백준) - Drawing]]></title>
+            <link>https://tv.naver.com/v/44033661</link>
+            <guid>https://tv.naver.com/v/44033661</guid>
+            <pubDate>Fri, 08 Dec 2023 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_163/pDB8l_1702019321069UP6km_JPEG/1702019289676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] VIZO(비조) - Butterfly Wave(설레인 파도)]]></title>
             <link>https://tv.naver.com/v/43925172</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_268/iSL7Q_1700441972475d7rzB_JPEG/1700441905660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Band45 - Leaning On That Star(저 별에 기대어)]]></title>
-            <link>https://tv.naver.com/v/43003472</link>
-            <guid>https://tv.naver.com/v/43003472</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_41/dJszT_1700214570960L4J0t_JPEG/1700214539876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Choi hyebin(최혜빈) - WE(우리)]]></title>
-            <link>https://tv.naver.com/v/43003120</link>
-            <guid>https://tv.naver.com/v/43003120</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_7/t20D8_1700214088697Tatui_JPEG/1700213926397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 2 Day Old Sneakers(투 데이 올드 스니커즈) - Cherokee]]></title>
-            <link>https://tv.naver.com/v/43002978</link>
-            <guid>https://tv.naver.com/v/43002978</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_230/ckUl5_1700213900763dy7pa_JPEG/1700213868624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Sunset On The Bridge - FHLD]]></title>
-            <link>https://tv.naver.com/v/43002934</link>
-            <guid>https://tv.naver.com/v/43002934</guid>
-            <pubDate>Fri, 17 Nov 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_159/ukKVc_1700213841659vCP5N_JPEG/1700213809512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
