@@ -4,9 +4,17 @@
         <title>네이버TV ─ 미러볼뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 02:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 03:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] Ezzle(이즐) - Evening Run(야반도주) (夜半逃走)]]></title>
+            <link>https://tv.naver.com/v/44034810</link>
+            <guid>https://tv.naver.com/v/44034810</guid>
+            <pubDate>Sat, 09 Dec 2023 03:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_24/P5ORB_1702020353776XLyp9_JPEG/1702020193494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] DAN(단) - Dear H (with. Jeong Yoon)(H에게 (with. 정윤))]]></title>
             <link>https://tv.naver.com/v/44034380</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_130/rcrau_17004420513623nbar_JPEG/1700442012065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] The Black Underground - Into The Silence]]></title>
-            <link>https://tv.naver.com/v/43087236</link>
-            <guid>https://tv.naver.com/v/43087236</guid>
-            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_268/iSL7Q_1700441972475d7rzB_JPEG/1700441905660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
