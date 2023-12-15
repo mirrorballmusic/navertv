@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 09:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 10:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] SamSan(삼산) - The Money(아니, 그 돈을 벌써?) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/44394245</link>
+            <guid>https://tv.naver.com/v/44394245</guid>
+            <pubDate>Fri, 15 Dec 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_210/DOR2Q_1702633106347Lp8iO_JPEG/1702633082314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] Eunoia(유노이아) - What if we hadn't met (feat. Onlyman(권영훈)) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/44394201</link>
+            <guid>https://tv.naver.com/v/44394201</guid>
+            <pubDate>Fri, 15 Dec 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_281/W08lh_17026330550383rpr3_JPEG/1702633036180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] RecordVoiceMessage(음성녹음 (音聲錄音)) - Happysad(해피새드) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/44394167</link>
+            <guid>https://tv.naver.com/v/44394167</guid>
+            <pubDate>Fri, 15 Dec 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[6:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_262/Seofw_1702633010509v96lh_JPEG/1702632990955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TJ(조태준) - See the sea(바라다 본다) (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/44394118</link>
+            <guid>https://tv.naver.com/v/44394118</guid>
+            <pubDate>Fri, 15 Dec 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_45/TXjPk_17026329640243fhpG_JPEG/1702632942985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] KIMI - Block (네이버TV ─ 미러볼뮤직)]]></title>
+            <link>https://tv.naver.com/v/44394081</link>
+            <guid>https://tv.naver.com/v/44394081</guid>
+            <pubDate>Fri, 15 Dec 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_51/O1LZf_1702632918983CwSbd_JPEG/1702632886205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] marine (마린) - Breathing (네이버TV ─ 미러볼뮤직)]]></title>
             <link>https://tv.naver.com/v/44036013</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 06 Dec 2023 07:08:45 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_74/T3Y5j_1701845251979c5191_JPEG/1701845223339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 헤이븐 (Heiven) - Only You (君しかない) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43920724</link>
-            <guid>https://tv.naver.com/v/43920724</guid>
-            <pubDate>Wed, 06 Dec 2023 07:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_194/Dg3Oc_1701845226751gLInS_JPEG/1701845172043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Llwyd(루이드) - Hair, Gym(헤어짐) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43920644</link>
-            <guid>https://tv.naver.com/v/43920644</guid>
-            <pubDate>Wed, 06 Dec 2023 07:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_295/efZXu_1701845145963wpTYF_JPEG/1701845107507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Biuret(뷰렛) - Navillera(나빌레라) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43920572</link>
-            <guid>https://tv.naver.com/v/43920572</guid>
-            <pubDate>Wed, 06 Dec 2023 07:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_243/abRNj_1701845076277cq5lz_JPEG/1701845049590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Ye Ram(예람) - I Go the Other Way(나는 반대로 가네) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43087363</link>
-            <guid>https://tv.naver.com/v/43087363</guid>
-            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_173/AsNKF_17004422501184kp7i_JPEG/1700442165156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] Lee Earth(이지구) - Mouth(입) (네이버TV ─ 미러볼뮤직)]]></title>
-            <link>https://tv.naver.com/v/43087321</link>
-            <guid>https://tv.naver.com/v/43087321</guid>
-            <pubDate>Mon, 20 Nov 2023 01:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[5:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_98/XtMRY_1700442135992lgYue_JPEG/1700442085296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
